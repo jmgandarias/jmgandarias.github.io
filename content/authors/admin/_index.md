@@ -44,13 +44,13 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Gandarias
 role: Assistant Professor
 highlight_name: true
 title: Juan M. Gandarias
-first_name: Alice
+first_name: Juan M.
 email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Juan M. Gandarias is an Assistant Professor at the University of Malaga. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
