@@ -71,24 +71,60 @@ sections:
       items:
         - title: Assistant Professor
           company: University of Malaga
-          company_url: ''
-          company_logo: ''
+          company_url: 'https://uma.es'
+          company_logo: logo_uma_blanco
           location: Malaga, Spain
           date_start: '2023-07-25'
           date_end: ''
           description: |2-
               * Teching
-              * Academic Research
+              * Academic research
               * Mentoring PhD, MS, and BS students
-              * Project Management
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Project management
+        - title: Postdoctoral Researcher
+          company: Istituto Italiano di Tecnologia
+          company_url: 'https://iit.it'
+          company_logo: iit_logo_blanco
+          location: Genova, Italy
+          date_start: '2020-10-01'
+          date_end: '2023-07-24'
+          description: |2-
+              * Academic research
+              * Mentoring PhD, MS, and BS students
+              * Project management
+        - title: Postdoctoral Researcher
+          company: University of Malaga
+          company_url: 'https://uma.es'
+          company_logo: logo_uma_blanco
+          location: Malaga, Spain
+          date_start: '2020-03-31'
+          date_end: '2020-10-01'
+          description: |2-
+              * Academic research
+              * Mentoring PhD, MS, and BS students
+              * Teaching assistant in laboratory sessions
+        - title: PhD Research Visitor
+          company: University College London
+          company_url: 'https://ucl.uk'
+          company_logo: logo_ucl_blanco
+          location: London, UK
+          date_start: '2019-03-01'
+          date_end: '2019-07-01'
+          description: |2-
+              * Academic research
+              * Mentoring MS students
+        - title: PhD Student
+          company: University of Malaga
+          company_url: 'https://uma.es'
+          company_logo: logo_uma_blanco
+          location: Malaga, Spain
+          date_start: '2017-04-07'
+          date_end: '2020-03-30'
+          description: |2-
+              * Academic research
+              * Mentoring MS and BS students
+              * Teaching assistant in laboratory sessions
+
     design:
       columns: '2'
   - block: accomplishments
