@@ -105,7 +105,7 @@ sections:
               * Teaching assistant in laboratory sessions
         - title: PhD Research Visitor
           company: University College London
-          company_url: 'https://ucl.uk'
+          company_url: 'https://ucl.ac.uk'
           company_logo: logo_ucl_blanco
           location: London, UK
           date_start: '2019-03-01'
