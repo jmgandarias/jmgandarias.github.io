@@ -32,16 +32,16 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Mechatronics Engineering
       institution: University of Malaga
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-superuser: true
+      year: 2020
+    - course: MEng Mechatronics Engineering
+      institution: University of Malaga
+      year: 2017
+    - course: BSc in Indsutrial Engineering. Robotics, Automation and Control.
+      institution: University of Malaga
+      year: 2015
+      superuser: true
 status:
   icon: ☕️
 last_name: Gandarias
@@ -52,5 +52,5 @@ first_name: Juan M.
 email: ""
 ---
 
-Juan M. Gandarias is an Assistant Professor at the University of Malaga. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Juan M. Gandarias is an Assistant Professor at the Systems Engineering and Automation Department at the University of Malaga, Spain, where he conducts his research in the Robotics and Mechatronics lab and in the Institute of Mechatronics and Cyber-physical Systems (IMECH.UMA). Previously, he was a postdoctoral researcher at the Human-Robot Interfaces and Interaction group at Istituto Italiano di Tecnologia (IIT). He received his PhD degree in Mechatronics Engineering from the University of Malaga, Spain in 2020. He was involved in the Horizon-2020 project SOPHIA and ERC project Ergo-Lean. He has also contributed to several Spanish, Italian and European research projects related to search-and-rescue, physical robotic assistance, and Human-Robot Collaboration in Industrial environments. He is the author of several publications in journals and international conferences and is the inventor of one international patent. He has contributed as editor of special issues in scientific journals and international workshops in flagship conferences in robotics and automation. He has served as a reviewer for high-relevance journals and conferences such as IEEE RAM, RA-L, ICRA, IROS, ToH, etc. His main research interests include physical Human-Robot Interaction, human modeling, and haptics.
 {style="text-align: justify;"}
