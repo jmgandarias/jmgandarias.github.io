@@ -59,7 +59,7 @@ sections:
   #         icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Academic Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -72,16 +72,15 @@ sections:
         - title: Assistant Professor
           company: University of Malaga
           company_url: ''
-          company_logo: org-gc
+          company_logo: ''
           location: Malaga, Spain
-          date_start: '2021-01-01'
+          date_start: '2023-07-25'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * Teching
+              * Academic Research
+              * Mentoring PhD, MS, and BS students
+              * Project Management
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
