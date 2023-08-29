@@ -11,20 +11,23 @@ main:
   #   url: '#posts'
   #   weight: 20
   - name: Projects
-    url: '#en/projects'
+    url: '#projects'
     weight: 20
   - name: Publications
     url: '#publications'
     weight: 30
-  - name: Teaching and supervision
+  - name: Teaching
     url: '#teaching'
     weight: 40
-  - name: Talks and presentations
+  - name: Talks
     url: '#talks'
     weight: 50
+  - name: Videos
+    url: '#videos'
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70
   - name: CV
     url: uploads/Large_CV.pdf
-    weight: 70
+    weight: 80
