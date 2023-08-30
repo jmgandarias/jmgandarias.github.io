@@ -64,10 +64,6 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           path: ./public
-      - name: Generate the sitemap
-        uses: cicirello/generate-sitemap@v1
-        with:
-          base-url-path: https://jmgandarias.github.io/
 
   # Deployment job
   deploy:
