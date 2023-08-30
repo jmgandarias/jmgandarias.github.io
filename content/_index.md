@@ -59,10 +59,10 @@ sections:
   #         icon_pack: fas
   - block: experience
     content:
-      title: Academic Experience
+      title: Academic Career
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
+      date_format: June 1991
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
@@ -125,7 +125,7 @@ sections:
               * Mentoring MS and BS students
               * Teaching assistant in laboratory sessions
     design:
-      columns: '1'
+      columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -215,7 +215,7 @@ sections:
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
