@@ -12,7 +12,7 @@ sections:
         filename: juanma_florencia.png
       cta:
         label: '**Biography**'
-        url: https://jmgandarias.com/#about
+        url: '#about'
       # cta_alt:
       #   label: '**Contact me**'
       #   url: https://jmgandarias.com/#contact

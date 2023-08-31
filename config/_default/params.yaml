@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  # theme_day: minimal
   theme_night: minimal
   font: minimal
   font_size: M
@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'Juan M. Gandarias personal website'
-    twitter: 'wowchemy'
+    twitter: 'jmgandarias'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -37,7 +37,7 @@ header:
     align: l
     show_logo: true
     show_language: true
-    show_day_night: false
+    show_day_night: true
     show_search: true
     highlight_active_link: true
 
