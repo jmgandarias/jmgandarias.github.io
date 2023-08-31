@@ -11,8 +11,8 @@ sections:
       image:
         filename: juanma_florencia.png
       cta:
-        label: '**Contact me**'
-        url: https://jmgandarias.com/#contact
+        label: '**Biography**'
+        url: https://jmgandarias.com/#about
       # cta_alt:
       #   label: '**Contact me**'
       #   url: https://jmgandarias.com/#contact
@@ -23,6 +23,8 @@ sections:
         **Hi, I'm Juanma Gandarias!**
 
         I am an Assistant Professor in the Systems Engineering and Automation Department and a researcher at the Robotics and Mechatronics group at the University of Malaga.
+        
+        My research interests include physical Human-Robot Interaction, human modeling, haptics, and soft robotics.
         
         Here you can find preprints of my publications, overviews of past and ongoing research projects, teaching material, and my contact information.
 
