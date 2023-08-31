@@ -1,20 +1,19 @@
 ---
-title: 'Diseño y uso de una paleta haptica para practicas de teleoperacion con simulink'
+title: 'Human and object recognition with a high-resolution tactile sensor'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Sepehr Akbari-Kalhor
-  - Jesus M. Gomez-de-Gabriel
+  # - Robert Ford
 
 # Author notes (optional)
 author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2016-09-01'
+date: '2017-09'
 doi: 'http://hdl.handle.net/10630/12011'
 
 # Schedule page publish date (NOT publication's date).
