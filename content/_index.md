@@ -10,9 +10,10 @@ sections:
       title: 
       image:
         filename: juanma_florencia.png
-      cta:
-        label: '**Biography**'
-        url: '#about'
+      # cta:
+      #   label: '**Biography**'
+      #   url: '#about'
+      #   theme: primary-text
       # cta_alt:
       #   label: '**Contact me**'
       #   url: https://jmgandarias.com/#contact
@@ -36,7 +37,7 @@ sections:
       background:
         gradient_end: ''
         gradient_start: ''
-        text_color_light: true
+        # text_color_light: false
   - block: about.biography
     id: about
     content:
