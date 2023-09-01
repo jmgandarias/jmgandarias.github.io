@@ -10,10 +10,10 @@ sections:
       title: 
       image:
         filename: juanma_florencia.png
-      # cta:
-      #   label: '**Biography**'
-      #   url: '#about'
-      #   theme: primary-text
+      cta:
+        label: '<font size=4, style="color:#154360"> **Read More**</font>'
+        url: '#about'
+        theme: primary-text
       # cta_alt:
       #   label: '**Contact me**'
       #   url: https://jmgandarias.com/#contact
@@ -21,18 +21,25 @@ sections:
       #   label: >-
       #     <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
       text: |-
-        **Hi, I'm Juanma Gandarias!**
+        <font size=6, style="color:#aed6f1"> **Hi! I'm Juanma Gandarias,** </font>
 
+        <font size=5> 
         I am an Assistant Professor in the Systems Engineering and Automation Department and a researcher at the Robotics and Mechatronics group at the University of Malaga.
         
+        <!--Custom spacing-->
+        <div class="mb-3"></div>
+
         My research interests include physical Human-Robot Interaction, human modeling, haptics, and soft robotics.
         
-        Here you can find preprints of my publications, overviews of past and ongoing research projects, teaching material, and my contact information.
+        <!--Custom spacing-->
+        <div class="mb-53"></div>
 
-        # <!--Custom spacing-->
-        # <div class="mb-3"></div>
-        # <!--GitHub Button JS-->
-        # <script async defer src="https://buttons.github.io/buttons.js"></script>
+        Here you can find preprints of my publications, overviews of past and ongoing research projects, teaching material, and my contact information.
+        </font>
+
+        <!--Custom spacing-->
+        <div class="mb-5"></div>
+
     design:
       background:
         gradient_end: ''
@@ -230,24 +237,45 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
+  # - block: collection
+  #   id: publications
+  #   content:
+  #     title: Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: false
+  #   design:
+  #     columns: '2'
+  #     view: card
   - block: collection
-    id: publications
-    content:
-      title: Publications
-      filters:
-        folders:
-          - publication
-        featured_only: false
-    design:
-      columns: '2'
-      view: card
-  - block: collection
+    id: recent_publications
     content:
       title: Recent Publications
       text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+        <style>
+        .button{
+          display: inline-block;
+          background:none;
+          border-color:  #a9cce3 ;
+          color:  #a9cce3 ;
+          border-radius: 4px;
+          transition-duration: 0.2s;
+          text-align: center;
+          transition: all 0.5s;
+          cursor: pointer;
+          }
+        
+        .button:hover {
+          background-color:  #a9cce3 ;
+          color: #212f3c;
+        }
+        </style>   
+
+        <button class="button" onclick="document.location='./publication/'">All Publications</button>
+
+        <!--Custom spacing-->
+        <div class="mb-5"></div>
       filters:
         folders:
           - publication

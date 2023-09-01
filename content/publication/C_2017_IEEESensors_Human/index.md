@@ -6,6 +6,8 @@ title: 'Human and object recognition with a high-resolution tactile sensor'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Jesus M. Gomez-de-Gabriel
+  - Alfonso J. Garcia-Cerezo
   # - Robert Ford
 
 # Author notes (optional)
@@ -13,8 +15,8 @@ author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2017-09'
-doi: 'http://hdl.handle.net/10630/12011'
+date: '2017-09-01'
+doi: '10.1109/ICSENS.2017.8234203'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -26,16 +28,16 @@ doi: 'http://hdl.handle.net/10630/12011'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In XXXVII Jornadas de Automatica 2016
-publication_short: In Jornadas de Automática 2016
+publication: In IEEE Sensors 2017
+publication_short: In IEEE Sensors 2017
 
-abstract: En este artículo se presenta el uso de dispositivos de realimentación de fuerzas de un grado de libertad como herramienta para el desarrollo de aplicaciones docentes en asignaturas de teleoperación y telerrobótica, con el objetivo de disponer de una interfaz física que pueda ser utilizada como equipo de prácticas. Estos dispositivos, conocidos como haptic paddle, ya han sido probados satisfactoriamente para aplicaciones educativas de modelado y simulación de sistemas, ntroducción a los haptics e ingeniería de control en diversas Universidades. Para el desarrollo de los experimentos que se muestran en este artículo se han utilizado dos dispositivos haptic paddle con un controlador basado en Arduino y fabricados mediante tecnologías aditivas de impresión 3D. Gracias a los sensores de fuerza y posición incorporados se pueden implementar esquemas bilaterales de teleoperación de posicón-posición y fuerza-posición.
+abstract: This paper describes the use of two artificial intelligence methods for object recognition via pressure images from a high-resolution tactile sensor. Both methods follow the same procedure of feature extraction and posterior classification based on a supervised Supported Vector Machine (SVM). The two approaches differ on how features are extracted<font>:</font> while the first one uses the Speeded-Up Robust Features (SURF) descriptor, the other one employs a pre-trained Deep Convolutional Neural Network (DCNN). Besides, this work shows its application to object recognition for rescue robotics, by distinguishing between different body parts and inert objects. The performance analysis of the proposed methods is carried out with an experiment with 5-class non-human and 3-class human classification, providing a comparison in terms of accuracy and computational load. Finally, it is discussed how feature-extraction based on SURF can be obtained up to five times faster compared to DCNN. On the other hand, the accuracy achieved using DCNN-based feature extraction can be 11.67% superior to SURF.
 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Conference, Spanish, JA]
+tags: [Conferences, Tactile Perception]
 
 # Display this page in the Featured widget?
 featured: false
@@ -49,11 +51,11 @@ featured: false
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=dtXZHWaOn98'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -14,7 +14,7 @@ main:
     url: '#projects'
     weight: 20
   - name: Publications
-    url: '#publications'
+    url: '#recent_publications'
     weight: 30
   - name: Teaching
     url: '#teaching'
