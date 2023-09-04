@@ -251,7 +251,7 @@ sections:
   - block: collection
     id: recent_publications
     content:
-      title: Recent Publications
+      title: Publications
       text: |-
         <style>
         .button{
@@ -275,7 +275,11 @@ sections:
         <button class="button" onclick="document.location='./publication/'">All Publications</button>
 
         <!--Custom spacing-->
-        <div class="mb-5"></div>
+        <div class="mb-4"></div>
+
+        **<h2>Featured Publications</h2>**
+        <!--Custom spacing-->
+        <div class="mb-2"></div>
       filters:
         folders:
           - publication
