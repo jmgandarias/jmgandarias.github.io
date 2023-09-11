@@ -348,7 +348,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: jmgandarias@uma.es
       # phone: 888 888 88 88
-      appointment_url: 'https://calendly.com/jmgandarias/tutoria-presencial'
+      appointment_url: 'https://calendly.com/jmgandarias/tutoria'
       address:
         street: Calle Dr Ortiz Ramos 
         city: Malaga
