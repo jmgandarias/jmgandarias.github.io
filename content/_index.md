@@ -282,7 +282,7 @@ sections:
         }
         </style>   
 
-        <button class="button" onclick="document.location='./publication/'">All Publications</button>
+        <button class="button" onclick="document.location='./publication/'">See All Publications</button>
 
         <!--Custom spacing-->
         <div class="mb-4"></div>

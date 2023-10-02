@@ -1,13 +1,13 @@
 ---
-title: 'Cinematica y prototipado de un manipulador paralelo con centro de rotacion remoto para robotica quirurgica'
+title: 'Clasificacion de la información tactil para la deteccion de personas'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Francisco Pastor
   - admin
   - Jesus M. Gomez-de-Gabriel
+  - Alfonso J. Garcia-Cerezo
 
 # Author notes (optional)
 author_notes:
@@ -15,7 +15,7 @@ author_notes:
   # - 'Equal contribution'
 
 date: '2017-09-01'
-doi: 'https://doi.org/10.17979/spudc.9788497497749.0814'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -30,8 +30,7 @@ publication_types: ['1']
 publication: In XXXVIII Jornadas de Automatica 2017
 publication_short: In Jornadas de Automática 2017
 
-abstract: Este artículo presenta el modelo cinemático de un robot paralelo y la construcción de un prototipo de dos grados de libertad, cuyo objeto es servir como posicionador de instrumentos de cirugía laparoscópica. El robot tiene una configuración en paralelo, con estructura de mecanismo de cinco barras con ejes no paralelos, con dos articulaciones activas. La particularidad de este mecanismo reside en su forma no planar, es decir, los ejes de las articulaciones del robot no se encuentran en un mismo plano, sino que sus extensiones se cortan en un punto remoto, sobre el cual pivota el elemento terminal del manipulador. El espacio de trabajo de este prototipo en un casquete esférico con centro en el puerto de entrada en el paciente. Al no tratarse de un manipulador de cadena abierta, su cinemática es más compleja. En este trabajo se presenta el modelo cinemático inverso para control en coordenadas esféricas, y su validación mediante la construcción de un prototipo.
-
+abstract:  Este artículo presenta el diseño de un efector final táctil y la aplicación de técnicas de inteligencia artificial para la detección de personas mediante un brazo manipulador ligero de 6 grados de libertad. Este efector está compuesto por un sensor táctil de alta resolución que permite obtener imágenes de presión. El sistema extrae información háptica en situaciones de catástrofe en las que, generalmente,existe baja visibilidad, con el propósito de evaluar el estado de las víctimas en función de la urgencia de atención (triaje). Se han implementado dos métodos de inteligencia artificial para clasificar imágenes obtenidas por el sensor táctil, distinguiendo los contactos con personas de objetos inertes en escenarios de desastre. Cada método dispone de un extractor de características de imágenes de presión y un clasificador, obtenido por aprendizaje supervisado. Para validar los métodos se han realizado experimentos de clasificación en clases Humano y No humano. Finalmente, se ha realizado una comparación de ambos métodos en términos de porcentaje de acierto y tiempo empleado para la clasifiación, en base a los resultados de los experimentos.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -42,9 +41,9 @@ tags: [Conferences, Spanish]
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: DOI
+  url: http://hdl.handle.net/10630/14555
 
 # To add the pdf save the file named `FOLDER_NAME.pdf` to your page's folder.
 url_pdf: ''
@@ -54,7 +53,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=dtXZHWaOn98'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

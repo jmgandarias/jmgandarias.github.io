@@ -15,7 +15,7 @@ author_notes:
   # - 'Equal contribution'
 
 date: '2017-09-01'
-doi: 'https://doi.org/10.17979/spudc.9788497497749.0814'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -42,9 +42,9 @@ tags: [Conferences, Spanish]
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: DOI
+  url: http://hdl.handle.net/2183/25930
 
 # To add the pdf save the file named `FOLDER_NAME.pdf` to your page's folder.
 url_pdf: ''
