@@ -11,19 +11,19 @@ main:
   #   url: '#posts'
   #   weight: 20
   - name: Projects
-    url: '#projects'
+    url: 'project'
     weight: 20
   - name: Publications
     url: '#recent_publications'
     weight: 30
   - name: Teaching
-    url: '#teaching'
+    url: 'teaching'
     weight: 40
   - name: Talks
-    url: '#talks'
+    url: 'talks'
     weight: 50
   - name: Videos
-    url: '#videos'
+    url: 'videos'
     weight: 60
   - name: Contact
     url: '#contact'

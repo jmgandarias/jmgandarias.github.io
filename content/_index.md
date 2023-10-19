@@ -87,7 +87,7 @@ sections:
           date_start: '2023-07-25'
           date_end: ''
           description: |2-
-              * Teching
+              * Teaching
               * Academic research
               * Mentoring PhD, MS, and BS students
               * Project management
@@ -136,6 +136,8 @@ sections:
               * Teaching assistant in laboratory sessions
     design:
       columns: '2'
+
+
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -175,6 +177,8 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
+
+
   # - block: collection
   #   id: posts
   #   content:
@@ -239,14 +243,6 @@ sections:
 
 
 
-  # - block: markdown
-  #   content:
-  #     title: Gallery
-  #     subtitle: ''
-  #     text: |-
-  #       {{< gallery album="demo" >}}
-  #   design:
-  #     columns: '1'
   # - block: collection
   #   id: publications
   #   content:
@@ -258,6 +254,7 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
+  
   - block: collection
     id: recent_publications
     content:
@@ -298,14 +295,6 @@ sections:
       columns: '2'
       view: citation
 
-################################################
-#
-#   TODO: TEACHING
-#
-################################################ 
-
-
-
 
 ################################################
 #
@@ -322,6 +311,12 @@ sections:
   #   design:
   #     columns: '2'
   #     view: compact
+
+################################################
+#
+#   TODO: POPULAR TOPICS
+#
+################################################     
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics
