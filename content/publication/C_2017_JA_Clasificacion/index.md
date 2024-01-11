@@ -35,7 +35,7 @@ abstract:  Este artículo presenta el diseño de un efector final táctil y la a
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Conferences, Spanish]
+tags: [Conferences, Tactile Perception, Spanish]
 
 # Display this page in the Featured widget?
 featured: false
@@ -49,7 +49,7 @@ links:
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''

@@ -36,7 +36,7 @@ abstract: En este artículo se presenta el uso de dispositivos de realimentació
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Conferences, Haptics, Spanish]
+tags: [Conferences, Education, Spanish]
 
 # Display this page in the Featured widget?
 featured: false

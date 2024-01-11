@@ -4,7 +4,7 @@
 This repo has been created from the [Wowchemy Starter Hugo Academic Template](https://github.com/wowchemy/starter-hugo-academic)
 
 Local visualization
-1. Install hugo:
+1. Install hugo (if not installed already):
 ```snap install hugo```
 2. Open a terminal and run: 
 ```hugo server```
