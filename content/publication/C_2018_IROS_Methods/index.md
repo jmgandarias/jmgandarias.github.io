@@ -39,7 +39,7 @@ abstract: A new robotic system for Search And Rescue (SAR) operations based on t
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Conferences]
+tags: [Conferences, Search and Rescue, Robot Design]
 
 # Display this page in the Featured widget?
 featured: false

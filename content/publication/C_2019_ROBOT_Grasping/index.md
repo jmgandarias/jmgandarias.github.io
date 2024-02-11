@@ -1,21 +1,23 @@
 ---
-title: 'Diseño y uso de una paleta haptica para practicas de teleoperacion con simulink'
+title: 'Grasping Angle Estimation of Human Forearm with Underactuated Grippers Using Proprioceptive Feedback'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Francisco Pastor
   - admin
-  - Sepehr Akbari-Kalhor
-  - Jesus M. Gomez-de-Gabriel
+  - Alfonso J. García-Cerezo
+  - Antonio J. Muñoz-Ramírez
+  - Jesús M. Gómez-de-Gabriel
 
 # Author notes (optional)
 author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2016-09-01'
-doi: 'http://hdl.handle.net/10630/12011'
+date: '2019-11-20'
+doi: '10.1007/978-3-030-36150-1_36'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -24,19 +26,19 @@ doi: 'http://hdl.handle.net/10630/12011'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['6']
 
 # Publication name and optional abbreviated publication name.
-publication: In XXXVII Jornadas de Automatica 2016
-publication_short: In Jornadas de Automática 2016
+publication: Fourth Iberian Robotics Conference. Advances in Intelligent Systems and Computing
+publication_short: ROBOT 2019
 
-abstract: En este artículo se presenta el uso de dispositivos de realimentación de fuerzas de un grado de libertad como herramienta para el desarrollo de aplicaciones docentes en asignaturas de teleoperación y telerrobótica, con el objetivo de disponer de una interfaz física que pueda ser utilizada como equipo de prácticas. Estos dispositivos, conocidos como haptic paddle, ya han sido probados satisfactoriamente para aplicaciones educativas de modelado y simulación de sistemas, ntroducción a los haptics e ingeniería de control en diversas Universidades. Para el desarrollo de los experimentos que se muestran en este artículo se han utilizado dos dispositivos haptic paddle con un controlador basado en Arduino y fabricados mediante tecnologías aditivas de impresión 3D. Gracias a los sensores de fuerza y posición incorporados se pueden implementar esquemas bilaterales de teleoperación de posicón-posición y fuerza-posición.
+abstract: In this paper, a method for the estimation of the angle of grasping of a human forearm, when grasped by a robot with an underactuated gripper, using proprioceptive information only, is presented. Knowing the angle around the forearm’s axis (i.e. roll angle) is key for the safe manipulation of the human limb and biomedical sensor placement among others. The adaptive gripper has two independent underactuated fingers with two phalanges and a single actuator each. The final joint position of the gripper provides information related to the shape of the grasped object without the need for external contact or force sensors. Regression methods to estimate the roll angle of the grasping have been trained with forearm grasping information from different humans at each angular position. The results show that it is possible to accurately estimate the rolling angle of the human arm, for trained and unknown people.
 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Conferences, Education, Spanish]
+tags: [Book Chapter, Grippers]
 
 # Display this page in the Featured widget?
 featured: false
@@ -54,7 +56,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=dtXZHWaOn98'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

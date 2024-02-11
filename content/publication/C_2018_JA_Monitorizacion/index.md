@@ -39,7 +39,7 @@ abstract: In developing laboratory practices in some courses related to systems 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Conferences, Spanish]
+tags: [Conferences, Search and Rescue, Spanish]
 
 # Display this page in the Featured widget?
 featured: false

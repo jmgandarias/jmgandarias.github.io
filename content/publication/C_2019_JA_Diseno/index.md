@@ -1,21 +1,24 @@
 ---
-title: 'Diseño y uso de una paleta haptica para practicas de teleoperacion con simulink'
+title: 'Diseño de una pinza subactuada híbrida soft-rigid con sensores hápticos para interacción física segura robot-humano'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Sepehr Akbari-Kalhor
-  - Jesus M. Gomez-de-Gabriel
+  - Trinidad Sánchez-Montoya
+  - Juan M. Gandarias
+  - Francisco Pastor
+  - Antonio J. Muñoz-Ramírez
+  - Alfonso J. García-Cerezo
+  - Jesús M. Gómez-de-Gabriel
 
 # Author notes (optional)
 author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2016-09-01'
-doi: 'http://hdl.handle.net/10630/12011'
+date: '2019-09-04'
+doi: 'https://doi.org/10.17979/spudc.9788497497169.795'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -27,16 +30,16 @@ doi: 'http://hdl.handle.net/10630/12011'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In XXXVII Jornadas de Automatica 2016
-publication_short: In Jornadas de Automática 2016
+publication: In XL Jornadas de Automática 2019
+publication_short: Jornadas de Automática 2019
 
-abstract: En este artículo se presenta el uso de dispositivos de realimentación de fuerzas de un grado de libertad como herramienta para el desarrollo de aplicaciones docentes en asignaturas de teleoperación y telerrobótica, con el objetivo de disponer de una interfaz física que pueda ser utilizada como equipo de prácticas. Estos dispositivos, conocidos como haptic paddle, ya han sido probados satisfactoriamente para aplicaciones educativas de modelado y simulación de sistemas, ntroducción a los haptics e ingeniería de control en diversas Universidades. Para el desarrollo de los experimentos que se muestran en este artículo se han utilizado dos dispositivos haptic paddle con un controlador basado en Arduino y fabricados mediante tecnologías aditivas de impresión 3D. Gracias a los sensores de fuerza y posición incorporados se pueden implementar esquemas bilaterales de teleoperación de posicón-posición y fuerza-posición.
+abstract: Underactuated robotic hands or grippers is one of the greatest achievements in robotic manipulation of the last years due to the adaptability to grasp objects with different shape, size and stiffness. On the other hand, the development of soft robots for intrinsically safe physical Human-Robot Interaction (pHRI) has also become one of the most important topics in robotics in the last decade. However, it is hard to find works that integrates both concept in one gripper. In this work, a new gripper with two underactuated fingers and one flexible is presented. Furtheremore, the flexible finger integrates a high-resolution tactile sensor, so that the robot have the information of pressure distributions while grasping an object. Furtheremore, two different flexible fingers made of different materials are compared in terms of flexibility and pressure distribution when grasping a human forearm.
 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Conferences, Education, Spanish]
+tags: [Conferences, Grippers, Spanish]
 
 # Display this page in the Featured widget?
 featured: false
@@ -50,11 +53,11 @@ featured: false
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=dtXZHWaOn98'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

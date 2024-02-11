@@ -39,7 +39,7 @@ abstract: The emergence of new robotic technologies such as compliant control an
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Conferences, pHRI]
+tags: [Conferences, pHRI, Grippers]
 
 # Display this page in the Featured widget?
 featured: false
@@ -55,9 +55,9 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'presentation.pdf'
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=dtXZHWaOn98'
+url_video: 'video.mp4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

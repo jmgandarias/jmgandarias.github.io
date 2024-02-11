@@ -1,20 +1,20 @@
 ---
-title: 'Uso del Haptic Paddle con aprendizaje basado en proyectos'
+title: 'Tactile Sensing and Machine Learning for Human and Object Recognition in Disaster Scenarios'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Antonio J. Munoz-Ramirez
   - Jesus M. Gomez-de-Gabriel
+  - Alfonso J. García-Cerezo
 
 # Author notes (optional)
 author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2017-09-01'
+date: '2017-12-21'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -24,18 +24,18 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['6']
 
 # Publication name and optional abbreviated publication name.
-publication: In XXXVIII Jornadas de Automatica 2017
-publication_short: Jornadas de Automática 2017
+publication: Third Iberian Robotics Conference. Advances in Intelligent Systems and Computing
+publication_short: ROBOT 2017
 
-abstract:  En este trabajo se presenta la experiencia de la utilización docente de un dispositivos háptico desarrollado como una nueva versióon del Haptic Paddle, creado en la Universidad de Stanford a media dos de los 90. Se trata de un dispositivo educativo de bajo coste y simple que puede ser ensamblado y programado por los estudiantes, y que se usó para enseñanza de dinámica de sistemas. El diseño realizado usa una electrónica completamente oﬀ the shelf, rodamientos y tornillería métrica estándar y piezas fabricadas mediante impresión 3D. En este trabajo se presenta este dispositivo junto con la experiencia de su utilización docente, mediante aprendizaje basado en proyectos, en una asignatura de máster de ingeniería mecatrónica. Se trata de la primera experiencia con un total de ocho kits de haptic paddle en la asignatura de Teleoperación y Telerrobótica, junto con aprendizaje basado en proyectos (ABP) y el uso de lenguajes de modelado. Se describen la organización y el desarrollo de las sesiones de prácticas con conclusiones sobre la adecuación del los dispositivos y métodos utilizados.
+abstract:  This paper presents the application of machine learning to tactile sensing for rescue robotics. Disaster situations often exhibit low-visibility scenarios where haptic feedback provides a valuable information for the search of potential victims. To extract haptic information from the environment, a tactile sensor attached to a lightweight robotic arm is used. Then, methods based on the SURF descriptor, support vector machines (SVM), Deep Convolutional Neural Networks (DCNN) and transfer learning are implemented to classify the data. Besides, experiments have been carried out, to compare those procedures, using different contact elements, such as human parts and objects that could be found in catastrophe scenarios. The best achieved accuracy of 92.22%, results from the application of the transfer learning procedure using a pre-trained DCNN and fine-tuning the classification layer of the network.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Conferences, Education, Spanish]
+tags: [Book Chapter, Tactile Perception]
 
 # Display this page in the Featured widget?
 featured: false
@@ -43,13 +43,13 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: DOI
-  url: http://hdl.handle.net/2183/25764
+  url: http://doi.org/10.1007/978-3-319-70836-2_14
 
 # To add the pdf save the file named `FOLDER_NAME.pdf` to your page's folder.
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: 'poster.pdf'
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
