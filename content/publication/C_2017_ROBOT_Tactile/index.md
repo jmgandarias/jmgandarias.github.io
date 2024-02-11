@@ -28,7 +28,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In XXXVIII Jornadas de Automatica 2017
-publication_short: In Jornadas de Automática 2017
+publication_short: Jornadas de Automática 2017
 
 abstract:  En este trabajo se presenta la experiencia de la utilización docente de un dispositivos háptico desarrollado como una nueva versióon del Haptic Paddle, creado en la Universidad de Stanford a media dos de los 90. Se trata de un dispositivo educativo de bajo coste y simple que puede ser ensamblado y programado por los estudiantes, y que se usó para enseñanza de dinámica de sistemas. El diseño realizado usa una electrónica completamente oﬀ the shelf, rodamientos y tornillería métrica estándar y piezas fabricadas mediante impresión 3D. En este trabajo se presenta este dispositivo junto con la experiencia de su utilización docente, mediante aprendizaje basado en proyectos, en una asignatura de máster de ingeniería mecatrónica. Se trata de la primera experiencia con un total de ocho kits de haptic paddle en la asignatura de Teleoperación y Telerrobótica, junto con aprendizaje basado en proyectos (ABP) y el uso de lenguajes de modelado. Se describen la organización y el desarrollo de las sesiones de prácticas con conclusiones sobre la adecuación del los dispositivos y métodos utilizados.
 

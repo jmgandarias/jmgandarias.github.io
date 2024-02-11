@@ -29,7 +29,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In IEEE Sensors 2017
-publication_short: In IEEE Sensors 2017
+publication_short: IEEE Sensors 2017
 
 abstract: This paper describes the use of two artificial intelligence methods for object recognition via pressure images from a high-resolution tactile sensor. Both methods follow the same procedure of feature extraction and posterior classification based on a supervised Supported Vector Machine (SVM). The two approaches differ on how features are extracted<font>:</font> while the first one uses the Speeded-Up Robust Features (SURF) descriptor, the other one employs a pre-trained Deep Convolutional Neural Network (DCNN). Besides, this work shows its application to object recognition for rescue robotics, by distinguishing between different body parts and inert objects. The performance analysis of the proposed methods is carried out with an experiment with 5-class non-human and 3-class human classification, providing a comparison in terms of accuracy and computational load. Finally, it is discussed how feature-extraction based on SURF can be obtained up to five times faster compared to DCNN. On the other hand, the accuracy achieved using DCNN-based feature extraction can be 11.67% superior to SURF.
 

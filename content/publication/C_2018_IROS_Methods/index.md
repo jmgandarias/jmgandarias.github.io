@@ -1,21 +1,24 @@
 ---
-title: 'Cinematica y prototipado de un manipulador paralelo con centro de rotacion remoto para robotica quirurgica'
+title: 'Methods for Autonomous Wristband Placement with a Search-and-Rescue Aerial Manipulator'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Francisco Pastor
-  - admin
   - Jesus M. Gomez-de-Gabriel
+  - admin
+  - Francisco J. Perez-Maldonado
+  - Francisco J. García-Nuñez
+  - Emilio J. Fern ́andez-García
+  - Alfonso J. García-Cerezo
 
 # Author notes (optional)
 author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2017-09-01'
-doi: ''
+date: '2018-10-01'
+doi: 'https://doi.org/10.1109/IROS.2018.8594202'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -27,34 +30,34 @@ doi: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In XXXVIII Jornadas de Automatica 2017
-publication_short: Jornadas de Automática 2017
+publication: In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2018
+publication_short: IROS 2018
 
-abstract: En este artículo se presenta el modelo cinemático de un robot paralelo y la construcción de un prototipo de dos grados de libertad, cuyo objeto es servir como posicionador de instrumentos de cirugía laparoscópica. El robot tiene una configuración en paralelo, con estructura de mecanismo de cinco barras con ejes no paralelos, con dos articulaciones activas. La particularidad de este mecanismo reside en su forma no planar, es decir, los ejes de las articulaciones del robot no se encuentran en un mismo plano, sino que sus extensiones se cortan en un punto remoto, sobre el cual pivota el elemento terminal del manipulador. El espacio de trabajo de este prototipo en un casquete esférico con centro en el puerto de entrada en el paciente. Al no tratarse de un manipulador de cadena abierta, su cinemática es más compleja. En este trabajo se presenta el modelo cinemático inverso para control en coordenadas esféricas, y su validación mediante la construcción de un prototipo.
+abstract: A new robotic system for Search And Rescue (SAR) operations based on the automatic wristband placement on the victims’ arm, which may provide identification, beaconing and remote sensor readings for continuous health monitoring. This paper focuses on the development of the automatic target localization and the device placement using an unmanned aerial manipulator. The automatic wrist detection and localization system uses an RGB-D camera and a convolutional neural network based on the region faster method (Faster R-CNN). A lightweight parallel delta manipulator with a large workspace has been built, and a new design of a wristband in the form of a passive detachable gripper, is presented, which under contact, automatically attaches to the human, while disengages from the manipulator. A new trajectory planning method has been used to minimize the torques caused by the external forces during contact, which cause attitude perturbations. Experiments have been done to evaluate the machine learning method for detection and location, and for the assessment of the performance of the trajectory planning method. The results show how the VGG-16 neural network provides a detection accuracy of 67.99%. Moreover, simulation experiments have been done to show that the new trajectories minimize the perturbations to the aerial platform.
 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Conferences, Mechatronics, Spanish]
+tags: [Conferences]
 
 # Display this page in the Featured widget?
 featured: false
 
 # Custom links (uncomment lines below)
-links:
-- name: DOI
-  url: http://hdl.handle.net/2183/25930
+# links:
+# - name: Custom Link
+#   url: http://example.org
 
 # To add the pdf save the file named `FOLDER_NAME.pdf` to your page's folder.
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: 'poster.pdf'
+url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'presentation.pdf'
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=dtXZHWaOn98'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

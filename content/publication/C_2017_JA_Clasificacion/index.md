@@ -28,7 +28,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In XXXVIII Jornadas de Automatica 2017
-publication_short: In Jornadas de Automática 2017
+publication_short: Jornadas de Automática 2017
 
 abstract:  Este artículo presenta el diseño de un efector final táctil y la aplicación de técnicas de inteligencia artificial para la detección de personas mediante un brazo manipulador ligero de 6 grados de libertad. Este efector está compuesto por un sensor táctil de alta resolución que permite obtener imágenes de presión. El sistema extrae información háptica en situaciones de catástrofe en las que, generalmente,existe baja visibilidad, con el propósito de evaluar el estado de las víctimas en función de la urgencia de atención (triaje). Se han implementado dos métodos de inteligencia artificial para clasificar imágenes obtenidas por el sensor táctil, distinguiendo los contactos con personas de objetos inertes en escenarios de desastre. Cada método dispone de un extractor de características de imágenes de presión y un clasificador, obtenido por aprendizaje supervisado. Para validar los métodos se han realizado experimentos de clasificación en clases Humano y No humano. Finalmente, se ha realizado una comparación de ambos métodos en términos de porcentaje de acierto y tiempo empleado para la clasifiación, en base a los resultados de los experimentos.
 

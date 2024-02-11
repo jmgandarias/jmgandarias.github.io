@@ -1,21 +1,24 @@
 ---
-title: 'Cinematica y prototipado de un manipulador paralelo con centro de rotacion remoto para robotica quirurgica'
+title: 'Uso de Google Classroom como repositorio de robótica práctica: PieroAcademy'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Francisco Pastor
-  - admin
-  - Jesus M. Gomez-de-Gabriel
+  - Antonio J. Muñoz-Ramírez
+  - Jesús M. Gómez-de-Gabriel
+  - admin 
+  - José Cádenas
+  - Jaime Molina
+  - Anthony Mandow
 
 # Author notes (optional)
 author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2017-09-01'
-doi: ''
+date: '2018-09-17'
+doi: 'https://doi.org/10.17979/spudc.9788497497565.0179'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -27,24 +30,24 @@ doi: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In XXXVIII Jornadas de Automatica 2017
-publication_short: Jornadas de Automática 2017
+publication: In XXXIX Jornadas de Automatica 2018
+publication_short: Jornadas de Automática 2018
 
-abstract: En este artículo se presenta el modelo cinemático de un robot paralelo y la construcción de un prototipo de dos grados de libertad, cuyo objeto es servir como posicionador de instrumentos de cirugía laparoscópica. El robot tiene una configuración en paralelo, con estructura de mecanismo de cinco barras con ejes no paralelos, con dos articulaciones activas. La particularidad de este mecanismo reside en su forma no planar, es decir, los ejes de las articulaciones del robot no se encuentran en un mismo plano, sino que sus extensiones se cortan en un punto remoto, sobre el cual pivota el elemento terminal del manipulador. El espacio de trabajo de este prototipo en un casquete esférico con centro en el puerto de entrada en el paciente. Al no tratarse de un manipulador de cadena abierta, su cinemática es más compleja. En este trabajo se presenta el modelo cinemático inverso para control en coordenadas esféricas, y su validación mediante la construcción de un prototipo.
+abstract: In developing laboratory practices in some courses related to systems engineering and automation, students are expected to gather information on equipment and components from different external sources. However, the results of their research, which in many cases are of high quality, are forgotten once evaluated. In order to value and improve the use of these works, we propose the creation of a controlled repository of information where students can collect material required to carry out their labwork, examples, and tutorials made by other students, but also contribute to expand the available information through their own experiences. The implementation of the repository is based on tools recently provided by the G Suite for Education (GSFE), especially Google Classroom. This paper describes the development and experience with this system as a means to manage an organized repository where the so-called ”Classes”take content from thematic units. The experience has shown advantages regarding versatility in the access from mobile devices and the capacity of reuse in real courses.
 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Conferences, Mechatronics, Spanish]
+tags: [Conferences, Spanish]
 
 # Display this page in the Featured widget?
 featured: false
 
 # Custom links (uncomment lines below)
-links:
-- name: DOI
-  url: http://hdl.handle.net/2183/25930
+# links:
+# - name: Custom Link
+#   url: http://example.org
 
 # To add the pdf save the file named `FOLDER_NAME.pdf` to your page's folder.
 url_pdf: ''
@@ -54,7 +57,7 @@ url_poster: 'poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=dtXZHWaOn98'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
