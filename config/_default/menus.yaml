@@ -19,12 +19,12 @@ main:
   - name: Teaching
     url: 'teaching'
     weight: 40
-  - name: Talks
-    url: 'talks'
-    weight: 50
-  - name: Videos
-    url: 'videos'
-    weight: 60
+  # - name: Talks
+  #   url: 'talks'
+  #   weight: 50
+  # - name: Videos
+  #   url: 'videos'
+  #   weight: 60
   - name: Contact
     url: '#contact'
     weight: 70

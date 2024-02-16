@@ -1,8 +1,8 @@
 ---
 title: Courses
-summary: 
+summary: Lectures given at the University of Malaga
 tags:
-date: ''
+date: '2024-02-16'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -29,5 +29,22 @@ external_link: ''
 # slides: example
 ---
 
+## 2023-2024
+  - Advanced Robotics, B.S. Electronics, Robotics and Mechatronics Engineering
+  - Robotics, B.S. Telecommunications Electronics Engineering
+  - Automatic Control, B.S. Medical Engineering
+  - Industrial Informatics, B.S. Industrial Electronics Engineering
+  - Automatics and Control, B.S. Industrial Technology Engineering
+  - Railway Systems Control, B.S. Electronics, Robotics and Mechatronics Engineering
 
-#### (:construction: Page under construction :construction:)
+## 2020-2021
+  - Automatics and Control, B.S. Industrial Technology Engineering
+  - ailway Systems Control, B.S. Electronics, Robotics and Mechatronics Engineering
+
+## 2019-2020
+  - Automatics and Control, B.S. Industrial Technology Engineering
+  - ailway Systems Control, B.S. Electronics, Robotics and Mechatronics Engineering
+
+## 2018-2019
+  - Railway Systems Control, B.S. Electronics, Robotics and Mechatronics Engineering
+  - Robotic Systems, B.S. Industrial Technology Engineering
