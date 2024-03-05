@@ -48,12 +48,12 @@ Soft robots, thanks to their flexible structure, offer significant benefits in t
 
 **Researchers:** 
 
-Manuel Fernández-Carmona
+[Manuel Fernández-Carmona](https://www.fernandezcarmona.net/)
 
-Juan A. Fernández-Madrigal
+[Juan A. Fernández-Madrigal](https://babel.isa.uma.es/jafma/)
 
-Jesús M. Gómez-de-Gabriel
+[Jesús M. Gómez-de-Gabriel](https://scholar.google.es/citations?user=8mWokEsAAAAJ&hl=es&oi=ao)
 
-Antonio J. Muñoz-Ramírez
+[Antonio J. Muñoz-Ramírez](https://www.uma.es/departments/teachers/ZnVhMUVodjlYK0IrRjlJVk1OMytSQT09/)
 
-Cristina Urdiales
+[Cristina Urdiales](https://scholar.google.es/citations?user=66IjL_EAAAAJ&hl=es&oi=ao)
