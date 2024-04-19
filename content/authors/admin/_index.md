@@ -56,7 +56,7 @@ Juan M. Gandarias is an Assistant Professor at the [Systems Engineering and Auto
 {style="text-align: justify;"}
 
 **Awards and honors**
-
+  - ICRA 2024 Best Paper Award Finalist on Human-Robot Interaction.
   - IROS 2022 Best Paper Award Finalist on Mobile Manipulation sponsored by OMRON Sinic X Corp.
   - Best PhD in Mechatronics Engineering Award from the University of Malaga.
   - Ph.D. Thesis with honors (Cum Laude). Intelligent Haptic Perception for Physical Robot Interaction.
