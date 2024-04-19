@@ -1,8 +1,8 @@
 ---
-title: Supervision
+title: Thesis Supervision
 summary: Supervision of PhD, Master and Bachelor Students
 tags:
-date: '2024-02-16'
+date: '2024-04-19'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -41,9 +41,14 @@ external_link: ''
 
 ## Bachelor Thesis (TFG)
 **Ongoing**
-  - Development of a simulation model for a mobile manipulator with an omnidirecctional robotic base (Open)
-  - Development of a high-level ROS package for robotic systems actuated by smart motors (Open)
-  - Development of a software interface for the control of a mobile manipulator with omnidirectional wheels (Open)
+  - Design and control of a 3-degree-of-freedom robotic wrist for a lightweight delta manipulator, David Rodriguez Onieva
+  - Design of a jamming-based variable-stiffness joint for a soft robotic finger, Daniel Espinosa Ramírez
+  - Development of a software interface for the control of a mobile manipulator with omnidirectional wheels, Rodrigo Castro Ochoa
+  - Development of a high-level ROS package for robotic systems actuated by smart motors, Maksym Saldat
+  - Development of a simulation model for a mobile manipulator with an omnidirectional robotic base, Mario Alber Gil
+  - Adaptive control of a 3-Degree-of-Freedom lightweight parallel manipulator, Víctor Rosillo Suero
+  - Experimental analysis of jamming-based variable stiffness links for robotic manipulators, Estrella ISla Sulimma
+  - Control of a 6 DoF robotic arm using ROS, Pascual González Redondo
 
 **Past**
    - Pablo Aguilar Orellana, Low consumption system for remote monitoring of robotic walkers, 2020
@@ -54,4 +59,4 @@ external_link: ''
    - Maria Fernández Hijano, Pressure images data acquisition system for an array, resisitve-based tactile sensor, 2018 
    - José Andrés Lorenzo Robles, Connected, portable force measurement device, 2018
 
-If you are looking for Bachelor, Master, or PhD supervision, please [contact me](/#contact) for more information
+If you are looking for Bachelor, Master, or PhD Thesis supervision, please [contact me](/#contact) for more information

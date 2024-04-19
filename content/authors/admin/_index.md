@@ -1,8 +1,8 @@
 ---
 bio: My research interests include physical Human-Robot Interaction, human modeling, haptics, and soft robotics.
 interests:
+  - Interactive Robots
   - Physical Human-Robot Interaction
-  - Human Modeling
   - Haptics
   - Soft Robotics
 social:
@@ -77,5 +77,5 @@ Juan M. Gandarias is an Assistant Professor at the [Systems Engineering and Auto
   - IEEE RAS Young Reviewers Program, Senior Reviewer, 2023.
   - IEEE International Conference on Advanced Robotics and its Social Impacts (ARSO), Session Chair, 2023.
   - Frontiers in Robotics and AI - Robot Design, Review Editor, 2022.
-  - MDPI Sensors, Guest Editor of the Special Issue on Robotic Contact with the Human Body in Physical Human-Robot Interaction, 2021.
+  - MDPI Sensors, Guest Editor of the Special Issue on Robotic Contact with the Human Body in Physical Human-Robot Interaction, edition I (2021) and edition II (2024).
 {style="text-align: justify;"}

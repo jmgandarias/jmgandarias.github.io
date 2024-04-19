@@ -255,45 +255,45 @@ sections:
   #     columns: '2'
   #     view: card
   
-  - block: collection
-    id: recent_publications
-    content:
-      title: Publications
-      text: |-
-        <style>
-        .button{
-          display: inline-block;
-          background:none;
-          border-color:  #a9cce3 ;
-          color:  #a9cce3 ;
-          border-radius: 4px;
-          transition-duration: 0.2s;
-          text-align: center;
-          transition: all 0.5s;
-          cursor: pointer;
-          }
+  # - block: collection
+  #   id: recent_publications
+  #   content:
+  #     title: Publications
+  #     text: |-
+  #       <style>
+  #       .button{
+  #         display: inline-block;
+  #         background:none;
+  #         border-color:  #a9cce3 ;
+  #         color:  #a9cce3 ;
+  #         border-radius: 4px;
+  #         transition-duration: 0.2s;
+  #         text-align: center;
+  #         transition: all 0.5s;
+  #         cursor: pointer;
+  #         }
         
-        .button:hover {
-          background-color:  #a9cce3 ;
-          color: #212f3c;
-        }
-        </style>   
+  #       .button:hover {
+  #         background-color:  #a9cce3 ;
+  #         color: #212f3c;
+  #       }
+  #       </style>   
 
-        <button class="button" onclick="document.location='./publication/'">See All Publications</button>
+  #       <button class="button" onclick="document.location='./publication/'">See All Publications</button>
 
-        <!--Custom spacing-->
-        <div class="mb-4"></div>
+  #       <!--Custom spacing-->
+  #       <div class="mb-4"></div>
 
-        **<h2>Featured Publications</h2>**
-        <!--Custom spacing-->
-        <div class="mb-2"></div>
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+  #       **<h2>Featured Publications</h2>**
+  #       <!--Custom spacing-->
+  #       <div class="mb-2"></div>
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: true
+  #   design:
+  #     columns: '2'
+  #     view: citation
 
 
 ################################################

@@ -1,8 +1,8 @@
 ---
-title: Courses
+title: University Courses
 summary: Lectures given at the University of Malaga
 tags:
-date: '2024-02-16'
+date: '2024-04-19'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -34,7 +34,7 @@ external_link: ''
   - Robotics, B.S. Telecommunications Electronics Engineering
   - Automatic Control, B.S. Medical Engineering
   - Industrial Informatics, B.S. Industrial Electronics Engineering
-  - Automatics and Control, B.S. Industrial Technology Engineering
+  - Control Engineering II, B.S. Industrial Technology Engineering
   - Railway Systems Control, B.S. Electronics, Robotics and Mechatronics Engineering
 
 ## 2020-2021
