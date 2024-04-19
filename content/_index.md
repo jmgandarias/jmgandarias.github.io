@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: 
+      title: Juan M. Gandarias
       image:
         filename: juanma_florencia.png
       cta:
