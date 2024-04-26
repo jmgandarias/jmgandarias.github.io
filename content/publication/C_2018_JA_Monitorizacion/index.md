@@ -1,16 +1,17 @@
 ---
-title: 'Uso de Google Classroom como repositorio de robótica práctica: PieroAcademy'
+title: 'Monitorización de víctimas con manipuladores aéreos en operaciones de búsqueda y rescate'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Francisco J. Ruiz-Ruiz, 
+  - admin
   - Antonio J. Muñoz-Ramírez
+  - Alfonso J. García-Cerezo
+  - Francisco Pastor-Martín 
   - Jesús M. Gómez-de-Gabriel
-  - admin 
-  - José Cádenas
-  - Jaime Molina
-  - Anthony Mandow
+  
 
 # Author notes (optional)
 author_notes:
@@ -31,7 +32,7 @@ publication_types: ['conference']
 publication: In XXXIX Jornadas de Automatica 2018
 publication_short: Jornadas de Automática 2018
 
-abstract: In developing laboratory practices in some courses related to systems engineering and automation, students are expected to gather information on equipment and components from different external sources. However, the results of their research, which in many cases are of high quality, are forgotten once evaluated. In order to value and improve the use of these works, we propose the creation of a controlled repository of information where students can collect material required to carry out their labwork, examples, and tutorials made by other students, but also contribute to expand the available information through their own experiences. The implementation of the repository is based on tools recently provided by the G Suite for Education (GSFE), especially Google Classroom. This paper describes the development and experience with this system as a means to manage an organized repository where the so-called ”Classes”take content from thematic units. The experience has shown advantages regarding versatility in the access from mobile devices and the capacity of reuse in real courses.
+abstract: This paper presents the first victim monitoring device for automatic placement of victims with aerial robotic manipulators. It is a distributed sensory system for the continuous assessment of the health status of catastrophic casualties. The designed sensor and communication system are described, as well as the application through the placement of the sensor based on the use of unmanned aerial systems (UAS) or aerial manipulator robots. The continuous monitoring device offers advantages over the current triage systems as it allows for online data collection and health status assesstment. It collects vital signs measurements from the victims, which are published through Internet of Things (IoT) protocols that allow them to be processed remotely. In addition, it has methods based on deep learning for the automatic detection of the relative position of the wrist of a person arm with respect to the aerial manipulator. Preliminary experiments have been carried out to obtain measurements and sensor placement using a preliminary prototype of the sensor.
 
 
 # Summary. An optional shortened abstract.

@@ -5,9 +5,12 @@ title: 'Diseño y uso de una paleta haptica para practicas de teleoperacion con 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Sepehr Akbari-Kalhor
-  - Jesus M. Gomez-de-Gabriel
+  - Antonio J. Muñoz-Ramírez
+  - Jesús M. Gómez-de-Gabriel
+  - admin 
+  - José Cádenas
+  - Jaime Molina
+  - Anthony Mandow
 
 # Author notes (optional)
 author_notes:
@@ -28,7 +31,7 @@ publication_types: ['conference']
 publication: In XXXVII Jornadas de Automatica 2016
 publication_short: Jornadas de Automática 2016
 
-abstract: En este artículo se presenta el uso de dispositivos de realimentación de fuerzas de un grado de libertad como herramienta para el desarrollo de aplicaciones docentes en asignaturas de teleoperación y telerrobótica, con el objetivo de disponer de una interfaz física que pueda ser utilizada como equipo de prácticas. Estos dispositivos, conocidos como haptic paddle, ya han sido probados satisfactoriamente para aplicaciones educativas de modelado y simulación de sistemas, ntroducción a los haptics e ingeniería de control en diversas Universidades. Para el desarrollo de los experimentos que se muestran en este artículo se han utilizado dos dispositivos haptic paddle con un controlador basado en Arduino y fabricados mediante tecnologías aditivas de impresión 3D. Gracias a los sensores de fuerza y posición incorporados se pueden implementar esquemas bilaterales de teleoperación de posicón-posición y fuerza-posición.
+abstract: In developing laboratory practices in some courses related to systems engineering and automation, students are expected to gather information on equipment and components from different external sources. However, the results of their research, which in many cases are of high quality, are forgotten once evaluated. In order to value and improve the use of these works, we propose the creation of a controlled repository of information where students can collect material required to carry out their labwork, examples, and tutorials made by other students, but also contribute to expand the available information through their own experiences. The implementation of the repository is based on tools recently provided by the G Suite for Education (GSFE), especially Google Classroom. This paper describes the development and experience with this system as a means to manage an organized repository where the so-called ”Classes”take content from thematic units. The experience has shown advantages regarding versatility in the access from mobile devices and the capacity of reuse in real courses.
 
 
 # Summary. An optional shortened abstract.

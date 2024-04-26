@@ -22,7 +22,7 @@ doi: ''
 
 # Publication type.
 # Legend: uncategorized, conference, journal; preprint; book; chapter; thesis; patent
-publication_types: ['conference']
+publication_types: ['chapter']
 
 # Publication name and optional abbreviated publication name.
 publication: Third Iberian Robotics Conference. Advances in Intelligent Systems and Computing
@@ -33,7 +33,7 @@ abstract:  This paper presents the application of machine learning to tactile se
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Book Chapter, Tactile Perception]
+tags: [Tactile Perception]
 
 # Display this page in the Featured widget?
 featured: false

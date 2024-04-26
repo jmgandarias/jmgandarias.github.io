@@ -28,7 +28,8 @@ publication_types: ['conference']
 publication: In XXXVIII Jornadas de Automatica 2017
 publication_short: Jornadas de Automática 2017
 
-abstract: En este artículo se presenta el modelo cinemático de un robot paralelo y la construcción de un prototipo de dos grados de libertad, cuyo objeto es servir como posicionador de instrumentos de cirugía laparoscópica. El robot tiene una configuración en paralelo, con estructura de mecanismo de cinco barras con ejes no paralelos, con dos articulaciones activas. La particularidad de este mecanismo reside en su forma no planar, es decir, los ejes de las articulaciones del robot no se encuentran en un mismo plano, sino que sus extensiones se cortan en un punto remoto, sobre el cual pivota el elemento terminal del manipulador. El espacio de trabajo de este prototipo en un casquete esférico con centro en el puerto de entrada en el paciente. Al no tratarse de un manipulador de cadena abierta, su cinemática es más compleja. En este trabajo se presenta el modelo cinemático inverso para control en coordenadas esféricas, y su validación mediante la construcción de un prototipo.
+abstract: This paper presents the kinematic model of a parallel robot and the construction of a prototype with 2 DoFs, whose purpose is to serve as an instrument positioner for laparoscopic surgical interventions. The robot has a parallel configuration, with a five-bar mechanism structure with non-parallel axes, and two active joints. The particularity of this mechanism lies in its non-planar shape, i.e. the axes of the robot joints are not in the same plane, but their extensions intersect at a remote point, on which the terminal element of the manipulator pivots. The working space of this prototype is a spherical cap with center at the patient entry port. Since it is not an open-chain manipulator, its kinematics are complex. This paper also includes a geometric inverse kinematic model for control the robot in spherical coordinates, and its validation through the construction of a prototype.
+
 
 
 # Summary. An optional shortened abstract.
@@ -52,7 +53,7 @@ url_poster: 'poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=dtXZHWaOn98'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

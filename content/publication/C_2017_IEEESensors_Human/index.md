@@ -15,7 +15,7 @@ author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2017-09-01'
+date: '2017-11-01'
 doi: '10.1109/ICSENS.2017.8234203'
 
 # Schedule page publish date (NOT publication's date).
