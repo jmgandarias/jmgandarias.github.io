@@ -1,21 +1,25 @@
 ---
-title: 'Diseño y uso de una paleta haptica para practicas de teleoperacion con simulink'
+title: 'Robot-Assisted Navigation for Visually Impaired through Adaptive Impedance and Path Planning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Pietro Balatti
+  - Idil Ozdamar
+  - Doganay Sirintuna
+  - Luca Fortini
+  - Mattia Leonori
   - admin
-  - Sepehr Akbari-Kalhor
-  - Jesus M. Gomez-de-Gabriel
+  - Arash Ajoudani
 
 # Author notes (optional)
 author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2016-09-01'
-doi: 'http://hdl.handle.net/10630/12011'
+date: '2024-05-14'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -25,16 +29,16 @@ doi: 'http://hdl.handle.net/10630/12011'
 publication_types: ['conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In XXXVII Jornadas de Automatica 2016
-publication_short: In Jornadas de Automática 2016
+publication: In IEEE Internatinal Conference on Robotics and Automation (ICRA) 2024
+publication_short: In ICRA 2024
 
-abstract: En este artículo se presenta el uso de dispositivos de realimentación de fuerzas de un grado de libertad como herramienta para el desarrollo de aplicaciones docentes en asignaturas de teleoperación y telerrobótica, con el objetivo de disponer de una interfaz física que pueda ser utilizada como equipo de prácticas. Estos dispositivos, conocidos como haptic paddle, ya han sido probados satisfactoriamente para aplicaciones educativas de modelado y simulación de sistemas, ntroducción a los haptics e ingeniería de control en diversas Universidades. Para el desarrollo de los experimentos que se muestran en este artículo se han utilizado dos dispositivos haptic paddle con un controlador basado en Arduino y fabricados mediante tecnologías aditivas de impresión 3D. Gracias a los sensores de fuerza y posición incorporados se pueden implementar esquemas bilaterales de teleoperación de posicón-posición y fuerza-posición.
+abstract: <div align="justify">This paper presents a framework to navigate visually impaired people through unfamiliar environments by means of a mobile manipulator. The Human-Robot system consists of three key components. A mobile base, a robotic arm, and the human subject who gets guided by the robotic arm via physically coupling their hand with the cobot's end-effector. These components, receiving a goal from the user, traverse a collision-free set of waypoints in a coordinated manner, while avoiding static and dynamic obstacles through an obstacle avoidance unit and a novel human guidance planner. With this aim, we also present a legs tracking algorithm that utilizes 2D LiDAR sensors integrated into the mobile base to monitor the human pose. Additionally, we introduce an adaptive pulling planner responsible for guiding the individual back to the intended path if they veer off course. This is achieved by establishing a target arm end-effector position and dynamically adjusting the impedance parameters in real-time through a impedance tuning unit. To validate the framework we present a set of experiments both in laboratory settings with 12 healthy blindfolded subjects and a proof-of-concept demonstration in a real-world scenario.</div>
 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Conferences, Education, Spanish]
+tags: [Conference, pHRI, ICRA]
 
 # Display this page in the Featured widget?
 featured: false
@@ -52,7 +56,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=dtXZHWaOn98'
+url_video: 'video.mp4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
