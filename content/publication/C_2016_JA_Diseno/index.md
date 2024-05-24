@@ -1,5 +1,5 @@
 ---
-title: 'Diseño y uso de una paleta haptica para practicas de teleoperacion con simulink'
+title: 'Diseño y uso de una paleta háptica para prácticas de teleoperación con simulink'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -52,7 +52,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=dtXZHWaOn98'
+url_video: 'video.mp4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
