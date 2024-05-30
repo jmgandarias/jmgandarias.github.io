@@ -39,7 +39,7 @@ external_link: ''
   - Author: Francisco J Ruiz-Ruiz
   - Supervisors: Jesus M. Gómez-de-Gabriel and Juan M. Gandarias
   - Year: 2023
-  - PDF available: [Download](theses/Fran_phdThesis.pdf)
+  - PDF available: [Download](theses/PhD_FranciscoRuiz.pdf)
 
 ## Master Thesis (TFM)
 
@@ -76,7 +76,7 @@ external_link: ''
   - Author: Trinidad Sánchez Montoya
   - Supervisors: Jesus M. Gómez-de-Gabriel and Juan M. Gandarias
   - Year: 2019
-  <!-- - PDF available: [Download](theses/Fran_phdThesis.pdf) -->
+  - PDF available: [Download](theses/TFG_TrinidadSanchez.pdf)
 
 - [Sensorized human arm model for researching in physical Human-Robot Interaction](https://jabega.uma.es/permalink/34CBUA_UMA/1o1oa5r/alma991010711518404986)
   - Author: Jose Antonio Figuerola Palacios
@@ -100,7 +100,7 @@ external_link: ''
   - Author: Maria Fernández Hijano
   - Supervisors: Jesus M. Gómez-de-Gabriel and Juan M. Gandarias
   - Year: 2018
-  <!-- - PDF available: [Download](theses/Fran_phdThesis.pdf) -->
+  - PDF available: [Download](theses/TFG_MariaFernandez.pdf)
 
 - [Connected, portable force measurement device](https://jabega.uma.es/permalink/34CBUA_UMA/1o1oa5r/alma991010656383004986)
   - Author: José Andrés Lorenzo Robles
