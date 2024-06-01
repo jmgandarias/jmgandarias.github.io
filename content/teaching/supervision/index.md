@@ -70,7 +70,7 @@ external_link: ''
   - Author: Pablo Aguilar Orellana
   - Supervisors: Jesus M. Gómez-de-Gabriel and Juan M. Gandarias
   - Year: 2020
-  <!-- - PDF available: [Download](theses/Fran_phdThesis.pdf) -->
+  - PDF available: [Download](theses/TFG_PabloAguilar.pdf)
 
 - [Design of an underactuated robotic hand with a flexible tactile sensor](https://jabega.uma.es/permalink/34CBUA_UMA/1o1oa5r/alma991010696019004986)
   - Author: Trinidad Sánchez Montoya
