@@ -49,7 +49,7 @@ external_link: ''
   - Author: Adrián Bañuls Arias
   - Supervisors: Jesus M. Gómez-de-Gabriel and Juan M. Gandarias
   - Year: 2020
-  <!-- - PDF available:  -->
+  - PDF available: [Download](theses/TFM_AdrianBanuls.pdf)
 
 ## Bachelor Thesis (TFG)
 
