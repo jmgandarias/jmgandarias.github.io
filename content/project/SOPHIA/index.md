@@ -1,6 +1,6 @@
 ---
 title: SOPHIA
-summary: Socio-Physical Interaction Skills for Cooperative Human-Robot Systems in Agile Production
+summary: Socio-physical interaction skills for cooperative human-robot systems in agile production
 tags:
   - Horizon2020
 date: "2020-10-01"

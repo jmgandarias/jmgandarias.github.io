@@ -29,6 +29,14 @@ external_link: ''
 # slides: example
 ---
 
+## 2024-2025
+  - Advanced Robotics, B.S. Electronics, Robotics and Mechatronics Engineering
+  - Robotics, B.S. Telecommunications Electronics Engineering
+  - Control Engineering I, B.S. Electronics, Robotics and Mechatronics Engineering
+  - Industrial Informatics, B.S. Industrial Electronics Engineering
+  - Control Engineering II, B.S. Industrial Technology Engineering
+  - Railway Systems Control, B.S. Electronics, Robotics and Mechatronics Engineering
+
 ## 2023-2024
   - Advanced Robotics, B.S. Electronics, Robotics and Mechatronics Engineering
   - Robotics, B.S. Telecommunications Electronics Engineering

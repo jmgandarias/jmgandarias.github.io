@@ -1,6 +1,6 @@
 ---
-title: RAFI (UMA-CEIATECH-23) 
-summary: Intelligent physical care robot
+title: HANDCARE (UMA20-FEDERJA-052) 
+summary: Perception in robotic hands for human assistance
 tags:
   - pHRI
 date: '2019-01-01'
@@ -30,16 +30,16 @@ url_video: ''
 # slides: example
 ---
 
-## RAFI: Intelligent Physical Care Robot
+## HANDCARE: Perception in Robotic Hands for Human Assistance
 
 <!-- ### Abstract  -->
 
 
 ### Project Data
 
-**Amount:** 31.306 €
+**Amount:** 33.917 €
 
-**Duration:** April 2020 - December 2023
+**Duration:** January 2021 - December 2023
 
 **Principal Investigator:** Jesús M. Gómez-de-Gabriel
 

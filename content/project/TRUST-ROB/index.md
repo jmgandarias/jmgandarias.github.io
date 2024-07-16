@@ -1,6 +1,6 @@
 ---
 title: TRUST-ROB
-summary: Towards Resilient Ugv and Uav Manipulator Teams for Robotic Search and Rescue Tasks
+summary: Towards resilient ugv and uav manipulator teams for robotic search and rescue tasks
 tags:
   - AEI
 date: "2018-10-01"

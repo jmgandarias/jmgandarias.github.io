@@ -58,7 +58,6 @@ external_link: ''
 - Design and control of a 3-degree-of-freedom robotic wrist for a lightweight delta manipulator, David Rodriguez Onieva
 - Design of a jamming-based variable-stiffness joint for a soft robotic finger, Daniel Espinosa Ramírez
 - Development of a software interface for the control of a mobile manipulator with omnidirectional wheels, Rodrigo Castro Ochoa
-- Development of a high-level ROS package for robotic systems actuated by smart motors, Maksym Saldat
 - Development of a simulation model for a mobile manipulator with an omnidirectional robotic base, Mario Alber Gil
 - Adaptive control of a 3-Degree-of-Freedom lightweight parallel manipulator, Víctor Rosillo Suero
 - Experimental analysis of jamming-based variable stiffness links for robotic manipulators, Estrella ISla Sulimma
@@ -66,6 +65,12 @@ external_link: ''
 
 **Past**
 
+- [Development of a high-level ROS package for robotic systems actuated by smart motors]()
+  - Author: Maksym Saldat
+  - Supervisors: Juan M. Gandarias and Jesus M. Gómez-de-Gabriel
+  - Year: 2024
+  <!-- - PDF available: [Download](theses/TFG_PabloAguilar.pdf) -->
+  - [GitHub repository](https://github.com/TaISLab/dynamixel_ros_library)
 - [Low consumption system for remote monitoring of robotic walkers](https://jabega.uma.es/permalink/34CBUA_UMA/1o1oa5r/alma991010883604704986)
   - Author: Pablo Aguilar Orellana
   - Supervisors: Jesus M. Gómez-de-Gabriel and Juan M. Gandarias

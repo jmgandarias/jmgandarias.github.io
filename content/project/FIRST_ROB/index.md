@@ -1,6 +1,6 @@
 ---
-title: TRUST-ROB
-summary: Multi-Robot System for Cooperation with First Response Human and Canine Rescue Teams in Catastrophe Scenarios
+title: FIRST-ROB
+summary: Multi-robot system for cooperation with first response human and canine rescue teams in catastrophe scenarios
 tags:
   - AEI
 date: "2017-10-01"
