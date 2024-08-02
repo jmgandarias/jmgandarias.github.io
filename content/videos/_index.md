@@ -30,3 +30,17 @@
 </video>
 
 </details>
+
+
+# Telerobotics
+
+<details>
+<summary><em>see videos</em></summary>
+
+## [An Open Tele-Impedance Framework to Generate Data for Contact-Rich Tasks in Robotic Manipulation, ARSO 2023](../publication/c_2023_arso_an-open/)
+
+<video width="360" height="240"  poster="../publication/c_2023_arso_an-open//featured.png" controls>
+  <source src="../publication/c_2023_arso_an-open/video.mp4" type="video/mp4">
+</video>
+
+</details>

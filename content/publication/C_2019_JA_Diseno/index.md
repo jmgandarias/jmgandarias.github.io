@@ -37,7 +37,7 @@ abstract: <div align="justify">Underactuated robotic hands or grippers is one of
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Conferences, Grippers, Spanish]
+tags: [Conference, Grippers, Spanish]
 
 # Display this page in the Featured widget?
 featured: false

@@ -33,7 +33,7 @@ abstract:  <div align="justify">This paper presents the design of a tactile end-
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Conferences, Tactile Perception, Spanish]
+tags: [Conference, Tactile Perception, Spanish]
 
 # Display this page in the Featured widget?
 featured: false

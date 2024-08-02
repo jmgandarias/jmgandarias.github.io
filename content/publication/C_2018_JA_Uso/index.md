@@ -37,7 +37,7 @@ abstract: <div align="justify">In developing laboratory practices in some course
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Conferences, Education, Spanish]
+tags: [Conference, Education, Spanish]
 
 # Display this page in the Featured widget?
 featured: false

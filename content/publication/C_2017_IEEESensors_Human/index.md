@@ -35,7 +35,7 @@ abstract: <div align="justify">This paper describes the use of two artificial in
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Conferences, Tactile Perception]
+tags: [Conference, Tactile Perception]
 
 # Display this page in the Featured widget?
 featured: false

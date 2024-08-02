@@ -33,7 +33,7 @@ abstract: <div align="justify">This paper presents the experience of the educati
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Conferences, Education, Spanish]
+tags: [Conference, Education, Haptics, Spanish]
 
 # Display this page in the Featured widget?
 featured: false

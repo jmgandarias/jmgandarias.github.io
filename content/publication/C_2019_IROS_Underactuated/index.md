@@ -37,7 +37,7 @@ abstract: <div align="justify">The emergence of new robotic technologies such as
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Conferences, pHRI, Grippers]
+tags: [Conference, pHRI, Grippers]
 
 # Display this page in the Featured widget?
 featured: false

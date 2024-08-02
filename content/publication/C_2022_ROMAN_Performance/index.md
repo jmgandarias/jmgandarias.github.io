@@ -1,21 +1,24 @@
 ---
-title: 'Diseño y uso de una paleta haptica para practicas de teleoperacion con simulink'
+title: 'Performance Analysis of Vibrotactile and Slide-and-Squeeze Haptic Feedback Devices for Limbs Postural Adjustment'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Marta Lorenzini
+  - Simone Ciotti
   - admin
-  - Sepehr Akbari-Kalhor
-  - Jesus M. Gomez-de-Gabriel
+  - Simone Fani
+  - Matteo Bianchi
+  - Arash Ajoudani
 
 # Author notes (optional)
 author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2016-09-01'
-doi: 'http://hdl.handle.net/10630/12011'
+date: '2022-08-29'
+doi: 'https://doi.org/10.1109/RO-MAN53752.2022.9900756'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -25,16 +28,15 @@ doi: 'http://hdl.handle.net/10630/12011'
 publication_types: ['conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In XXXVII Jornadas de Automatica 2016
-publication_short: In Jornadas de Automática 2016
+publication: In IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) 2022
+publication_short: In RO-MAN 2022
 
-abstract: En este artículo se presenta el uso de dispositivos de realimentación de fuerzas de un grado de libertad como herramienta para el desarrollo de aplicaciones docentes en asignaturas de teleoperación y telerrobótica, con el objetivo de disponer de una interfaz física que pueda ser utilizada como equipo de prácticas. Estos dispositivos, conocidos como haptic paddle, ya han sido probados satisfactoriamente para aplicaciones educativas de modelado y simulación de sistemas, ntroducción a los haptics e ingeniería de control en diversas Universidades. Para el desarrollo de los experimentos que se muestran en este artículo se han utilizado dos dispositivos haptic paddle con un controlador basado en Arduino y fabricados mediante tecnologías aditivas de impresión 3D. Gracias a los sensores de fuerza y posición incorporados se pueden implementar esquemas bilaterales de teleoperación de posicón-posición y fuerza-posición.
-
+abstract: <div align="justify">Recurrent or sustained awkward body postures are among the most frequently cited risk factors to the development of work-related musculoskeletal disorders (MSDs). To prevent workers from adopting harmful configurations but also to guide them toward more ergonomic ones, wearable haptic devices may be the ideal solution. In this paper, a vibrotactile unit, called ErgoTac, and a slide-and-squeeze unit, called CUFF, were evaluated in a limbs postural correction setting. Their capability of providing single-joint (shoulder or knee) and multi-joint (shoulder and knee at once) guidance was compared in twelve healthy subjects, using quantitative task-related metrics and subjective quantitative evaluation. An integrated environment was also built to ease communication and data sharing between the involved sensor and feedback systems. Results show good acceptability and intuitiveness for both devices. ErgoTac appeared as the suitable feedback device for the shoulder, while the CUFF may be the effective solution for the knee. This comparative study, although preliminary, was propaedeutic to the potential integration of the two devices for effective whole-body postural corrections, with the aim to develop a feedback and assistive apparatus to increase workers’ awareness about risky working conditions and therefore to prevent MSDs.</div>
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Conferences, Education, Spanish]
+tags: [Conference, Haptics, RO-MAN]
 
 # Display this page in the Featured widget?
 featured: false
@@ -52,7 +54,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=dtXZHWaOn98'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -35,7 +35,7 @@ abstract: <div align="justify">This paper presents the kinematic model of a para
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Conferences, Robot Design, Spanish]
+tags: [Conference, Robot Design, Spanish]
 
 # Display this page in the Featured widget?
 featured: false

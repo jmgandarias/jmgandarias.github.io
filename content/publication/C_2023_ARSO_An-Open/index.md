@@ -1,21 +1,21 @@
 ---
-title: 'Diseño y uso de una paleta haptica para practicas de teleoperacion con simulink'
+title: 'An Open Tele-Impedance Framework to Generate Data for Contact-Rich Tasks in Robotic Manipulation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Alberto Giammarino 
   - admin
-  - Sepehr Akbari-Kalhor
-  - Jesus M. Gomez-de-Gabriel
+  - Arash Ajoudani
 
 # Author notes (optional)
 author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2016-09-01'
-doi: 'http://hdl.handle.net/10630/12011'
+date: '2023-06-05'
+doi: 'https://doi.org/10.1109/ARSO56563.2023.10187436'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -25,16 +25,16 @@ doi: 'http://hdl.handle.net/10630/12011'
 publication_types: ['conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In XXXVII Jornadas de Automatica 2016
-publication_short: In Jornadas de Automática 2016
+publication: In IEEE International Conference on Advanced Robotics and Its Social Impacts (ARSO) 2023
+publication_short: In ARSO 2023
 
-abstract: En este artículo se presenta el uso de dispositivos de realimentación de fuerzas de un grado de libertad como herramienta para el desarrollo de aplicaciones docentes en asignaturas de teleoperación y telerrobótica, con el objetivo de disponer de una interfaz física que pueda ser utilizada como equipo de prácticas. Estos dispositivos, conocidos como haptic paddle, ya han sido probados satisfactoriamente para aplicaciones educativas de modelado y simulación de sistemas, ntroducción a los haptics e ingeniería de control en diversas Universidades. Para el desarrollo de los experimentos que se muestran en este artículo se han utilizado dos dispositivos haptic paddle con un controlador basado en Arduino y fabricados mediante tecnologías aditivas de impresión 3D. Gracias a los sensores de fuerza y posición incorporados se pueden implementar esquemas bilaterales de teleoperación de posicón-posición y fuerza-posición.
+abstract: <div align="justify">Using large datasets in machine learning has led to outstanding results, in some cases outperforming humans in tasks that were believed impossible for machines. However, achieving human-level performance when dealing with physically interactive tasks, e.g., in contact-rich robotic manipulation, is still a big challenge. It is well known that regulating the Cartesian impedance for such operations is of utmost importance for their successful execution. Approaches like Reinforcement Learning (RL) can be a promising paradigm for solving such problems. More precisely, approaches that use task-agnostic expert demonstrations to bootstrap learning when solving new tasks have a huge potential since they can exploit large datasets. However, existing data collection systems are expensive, complex, or do not allow for impedance regulation. This work represents a first step towards a data collection framework suitable for collecting large datasets of impedance-based expert demonstrations compatible with the RL problem formulation, where a novel action space, namely Variable Impedance Control in End-effector Space (VICES), is used. The framework is designed according to requirements acquired after an extensive analysis of available data collection frameworks for robotics manipulation. The result is a low-cost and open-access tele-impedance framework which makes human experts capable of demonstrating contact-rich tasks.</div>
 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Conferences, Education, Spanish]
+tags: [Conference, Telerobotics, ARSO]
 
 # Display this page in the Featured widget?
 featured: false
@@ -46,13 +46,13 @@ featured: false
 
 # To add the pdf save the file named `FOLDER_NAME.pdf` to your page's folder.
 url_pdf: ''
-url_code: ''
+url_code: 'https://gitlab.iit.it/hrii-public/teleimpedance-m5core2'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=dtXZHWaOn98'
+url_video: 'video.mp4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -38,7 +38,7 @@ abstract: <div align="justify">This paper presents the first victim monitoring d
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Conferences, Search and Rescue, Spanish]
+tags: [Conference, Search and Rescue, Spanish]
 
 # Display this page in the Featured widget?
 featured: false
