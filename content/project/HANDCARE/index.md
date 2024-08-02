@@ -2,7 +2,7 @@
 title: HANDCARE (UMA20-FEDERJA-052) 
 summary: Perception in robotic hands for human assistance
 tags:
-  - pHRI
+  - FEDER
 date: '2019-01-01'
 
 # Optional external URL for project (replaces project detail page).

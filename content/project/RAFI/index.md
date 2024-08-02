@@ -2,7 +2,7 @@
 title: RAFI (UMA-CEIATECH-23) 
 summary: Intelligent physical care robot
 tags:
-  - pHRI
+  - FEDER
 date: '2019-01-01'
 
 # Optional external URL for project (replaces project detail page).

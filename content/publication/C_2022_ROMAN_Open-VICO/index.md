@@ -1,21 +1,23 @@
 ---
-title: 'Diseño y uso de una paleta haptica para practicas de teleoperacion con simulink'
+title: 'Open-VICO: An Open-Source Gazebo Toolkit for Vision-based Skeleton Tracking in Human-Robot Collaboration'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Luca Fortini
+  - Mattia Leonori
   - admin
-  - Sepehr Akbari-Kalhor
-  - Jesus M. Gomez-de-Gabriel
+  - Elena De Momi
+  - Arash Ajoudani
 
 # Author notes (optional)
 author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2016-09-01'
-doi: 'http://hdl.handle.net/10630/12011'
+date: '2022-08-29'
+doi: 'https://doi.org/10.1109/RO-MAN53752.2022.9900851'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -25,16 +27,16 @@ doi: 'http://hdl.handle.net/10630/12011'
 publication_types: ['conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In XXXVII Jornadas de Automatica 2016
-publication_short: In Jornadas de Automática 2016
+publication: In IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) 2022
+publication_short: In RO-MAN 2022
 
-abstract: En este artículo se presenta el uso de dispositivos de realimentación de fuerzas de un grado de libertad como herramienta para el desarrollo de aplicaciones docentes en asignaturas de teleoperación y telerrobótica, con el objetivo de disponer de una interfaz física que pueda ser utilizada como equipo de prácticas. Estos dispositivos, conocidos como haptic paddle, ya han sido probados satisfactoriamente para aplicaciones educativas de modelado y simulación de sistemas, ntroducción a los haptics e ingeniería de control en diversas Universidades. Para el desarrollo de los experimentos que se muestran en este artículo se han utilizado dos dispositivos haptic paddle con un controlador basado en Arduino y fabricados mediante tecnologías aditivas de impresión 3D. Gracias a los sensores de fuerza y posición incorporados se pueden implementar esquemas bilaterales de teleoperación de posicón-posición y fuerza-posición.
+abstract: <div align="justify">Simulation tools are essential for robotics research, especially for those domains in which safety is crucial, such as Human-Robot Collaboration (HRC). However, it is challenging to simulate human behaviors, and existing robotics simulators do not integrate functional human models. This work presents Open-VICO, an open-source toolkit to integrate virtual human models in Gazebo focusing on vision-based human tracking. In particular, Open-VICO allows to combine in the same simulation environment realistic human kinematic models, multi-camera vision setups, and human-tracking techniques along with numerous robot and sensor models thanks to Gazebo. The possibility to incorporate pre-recorded human skeleton motion with Motion Capture systems broadens the landscape of human performance behavioral analysis within Human-Robot Interaction (HRI) settings. To describe the functionalities and stress the potential of the toolkit four specific examples, chosen among relevant literature challenges in the field, are developed using our simulation utils. i) 3D multi-RGB-D camera calibration in simulation, ii) creation of a synthetic human skeleton tracking dataset based on OpenPose, iii) multi-camera scenario for human skeleton tracking in simulation, and iv) a human-robot interaction example. The key of this work is to create a straightforward pipeline which we hope will motivate research on new vision-based algorithms and methodologies for lightweight human-tracking and flexible human-robot applications.</div>
 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Conferences, Education, Spanish]
+tags: [Conference, Human Tracking, Human Modelling, RO-MAN]
 
 # Display this page in the Featured widget?
 featured: false
@@ -46,13 +48,13 @@ featured: false
 
 # To add the pdf save the file named `FOLDER_NAME.pdf` to your page's folder.
 url_pdf: ''
-url_code: ''
+url_code: 'https://gitlab.iit.it/hrii-public/open-vico'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=dtXZHWaOn98'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

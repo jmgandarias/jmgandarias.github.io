@@ -2,7 +2,7 @@
 title: STIFF-JAM
 summary: Development of variable stiffness links using jamming for soft robotic systems
 tags:
-  - Soft Robotics
+  - UMA
 date: '2024-01-01'
 
 # Optional external URL for project (replaces project detail page).
