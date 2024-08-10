@@ -17,8 +17,8 @@ author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2024-08-01'
-doi: 'https://arxiv.org/abs/2201.06365#'
+date: '2024-08-05'
+doi: '10.1016/j.mechatronics.2024.103240'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
