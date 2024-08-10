@@ -13,8 +13,9 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  # - 'Equal contribution'
-  # - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
 
 date: '2024-08-01'
 doi: '10.1016/j.robot.2024.104725'

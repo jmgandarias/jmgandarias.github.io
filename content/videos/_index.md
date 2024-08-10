@@ -34,6 +34,13 @@
   <source src="../publication/c_2022_icra_enhancing/video.mp4" type="video/mp4">
 </video>
 
+
+## [MOCA-S: A Sensitive Mobile Collaborative Robotic Assistant exploiting Low-Cost Capacitive Tactile Cover and Whole-Body Control (RAL & IROS 2022)](../publication/j_2022_ral_moca-s/)
+
+<video width="360" height="240"  poster="../publication/j_2022_ral_moca-s/featured.png" controls>
+  <source src="../publication/j_2022_ral_moca-s/video.mp4" type="video/mp4">
+</video>
+
 ## [Underactuated Gripper with Forearm Roll Estimation for Human Limbs Manipulation in Rescue Robotics (IROS 2019)](../publication/c_2019_iros_underactuated/)
 
 <video width="360" height="240"  poster="../publication/c_2019_iros_underactuated/featured.png" controls>
