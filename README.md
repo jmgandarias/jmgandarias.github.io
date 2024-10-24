@@ -1,7 +1,7 @@
 # jmgandarias.github.io
 [jmgandarias.com](https://jmgandarias.com)
 
-This repo has been created from the [Wowchemy HugoBlox Academic Template (commit 05a874aab734084d47615efb93b21fed25ae8656)](https://github.com/HugoBlox/theme-academic-cv/tree/05a874aab734084d47615efb93b21fed25ae8656) (Hugo version 0.131.0)
+This repo has been created from the [Wowchemy HugoBlox Academic Template (commit 05a874aab734084d47615efb93b21fed25ae8656)](https://github.com/HugoBlox/theme-academic-cv/tree/05a874aab734084d47615efb93b21fed25ae8656) (Hugo version 0.131.0).
 
 The latest version of the template can be found [here](https://github.com/HugoBlox/theme-academic-cv) (Check the required Hugo version)
 
