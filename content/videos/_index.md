@@ -74,6 +74,12 @@
 <details>
 <summary><em>see videos</em></summary>
 
+## [A Hybrid Learning and Optimization Framework to Achieve Physically Interactive Tasks with Mobile Manipulators (RAL 2022)](../publication/j_2022_ral_a-hybrid/)
+
+<video width="360" height="240"  poster="../publication/j_2022_ral_a-hybrid/featured.png" controls>
+  <source src="../publication/j_2022_ral_a-hybrid/video.mp4" type="video/mp4">
+</video>
+
 ## [A Self-Tuning Impedance-based Interaction Planner for Robotic Haptic Exploration (RAL 2022)](../publication/j_2022_ral_a-self/)
 
 <video width="360" height="240"  poster="../publication/j_2022_ral_a-self/featured.png" controls>

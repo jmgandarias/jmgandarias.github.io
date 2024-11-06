@@ -31,35 +31,12 @@ publication_types: ['journal']
 publication: In IEEE Robotics and Automation Letters
 publication_short: In IEEE RA-L
 
-abstract: <div align="justify">This paper presents a novel interaction planning method that exploits impedance tuning techniques in response
-to environmental uncertainties and unpredictable conditions
-using haptic information only. The proposed algorithm plans
-the robot’s trajectory based on the haptic interaction with the
-environment and adapts planning strategies as needed. Two
-approaches are considered. Exploration and Bouncing strategies.
-The Exploration strategy takes the actual motion of the robot
-into account in planning, while the Bouncing strategy exploits the
-forces and the motion vector of the robot. Moreover, self-tuning
-impedance is performed according to the planned trajectory to
-ensure compliant contact and low contact forces. In order to show
-the performance of the proposed methodology, two experiments
-with a torque-controller robotic arm are carried out. The first
-considers a maze exploration without obstacles, whereas the
-second includes obstacles. The proposed method performance is
-analyzed and compared against previously proposed solutions
-in both cases. Experimental results demonstrate that. i) the
-robot can successfully plan its trajectory autonomously in the
-most feasible direction according to the interaction with the
-environment, and ii) a compliant interaction with an unknown
-environment despite the uncertainties is achieved. Finally, a
-scalability demonstration is carried out to show the potential
-of the proposed method under multiple scenarios.</div>
-
+abstract: <div align="justify">This paper presents a novel interaction planning method that exploits impedance tuning techniques in response to environmental uncertainties and unpredictable conditions using haptic information only. The proposed algorithm plans the robot’s trajectory based on the haptic interaction with the environment and adapts planning strategies as needed. Two approaches are considered. Exploration and Bouncing strategies. The Exploration strategy takes the actual motion of the robot into account in planning, while the Bouncing strategy exploits the forces and the motion vector of the robot. Moreover, self-tuning impedance is performed according to the planned trajectory to ensure compliant contact and low contact forces. In order to show the performance of the proposed methodology, two experiments with a torque-controller robotic arm are carried out. The first considers a maze exploration without obstacles, whereas the second includes obstacles. The proposed method performance is analyzed and compared against previously proposed solutions in both cases. Experimental results demonstrate that. i) the robot can successfully plan its trajectory autonomously in the most feasible direction according to the interaction with the environment, and ii) a compliant interaction with an unknown environment despite the uncertainties is achieved. Finally, a scalability demonstration is carried out to show the potential of the proposed method under multiple scenarios.</div>
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: ['journal']
+tags: [Journal, Interactive Robots]
 
 # Display this page in the Featured widget?
 featured: false
