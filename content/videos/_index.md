@@ -69,6 +69,20 @@
 </details>
 
 
+# Interactive Robots
+
+<details>
+<summary><em>see videos</em></summary>
+
+## [A Self-Tuning Impedance-based Interaction Planner for Robotic Haptic Exploration (RAL 2022)](../publication/j_2022_ral_a-self/)
+
+<video width="360" height="240"  poster="../publication/j_2022_ral_a-self/featured.png" controls>
+  <source src="../publication/j_2022_ral_a-self/video.mp4" type="video/mp4">
+</video>
+
+</details>
+
+
 # Telerobotics
 
 <details>
@@ -76,7 +90,7 @@
 
 ## [An Open Tele-Impedance Framework to Generate Data for Contact-Rich Tasks in Robotic Manipulation (ARSO 2023)](../publication/c_2023_arso_an-open/)
 
-<video width="360" height="240"  poster="../publication/c_2023_arso_an-open//featured.png" controls>
+<video width="360" height="240"  poster="../publication/c_2023_arso_an-open/featured.png" controls>
   <source src="../publication/c_2023_arso_an-open/video.mp4" type="video/mp4">
 </video>
 
