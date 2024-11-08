@@ -16,7 +16,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2024-08-01'
+date: '2021-09-16'
 doi: 'https://arxiv.org/abs/2201.06365#'
 
 # Schedule page publish date (NOT publication's date).

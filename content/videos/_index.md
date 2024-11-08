@@ -34,11 +34,16 @@
   <source src="../publication/c_2022_icra_enhancing/video.mp4" type="video/mp4">
 </video>
 
-
 ## [MOCA-S: A Sensitive Mobile Collaborative Robotic Assistant exploiting Low-Cost Capacitive Tactile Cover and Whole-Body Control (RAL & IROS 2022)](../publication/j_2022_ral_moca-s/)
 
 <video width="360" height="240"  poster="../publication/j_2022_ral_moca-s/featured.png" controls>
   <source src="../publication/j_2022_ral_moca-s/video.mp4" type="video/mp4">
+</video>
+
+## [Upper-Limb Kinematic Parameter Estimation and Localization using a Compliant Robotic Manipulator (IEEE Access 2021)](../publication/j_2021_ieeeaccess_upper/)
+
+<video width="360" height="240"  poster="../publication/j_2021_ieeeaccess_upper/featured.png" controls>
+  <source src="../publication/j_2021_ieeeaccess_upper/video.mp4" type="video/mp4">
 </video>
 
 ## [Underactuated Gripper with Forearm Roll Estimation for Human Limbs Manipulation in Rescue Robotics (IROS 2019)](../publication/c_2019_iros_underactuated/)
