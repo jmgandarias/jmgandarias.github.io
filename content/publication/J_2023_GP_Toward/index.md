@@ -1,6 +1,5 @@
 ---
-title: 'Toward an active omnilateral walking support
-robotic system'
+title: 'Toward an active omnilateral walking support robotic system'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
