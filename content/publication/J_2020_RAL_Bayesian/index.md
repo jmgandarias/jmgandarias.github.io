@@ -1,5 +1,5 @@
 ---
-title: 'SUPER-MAN: SUPERnumerary Robotic Bodies for Physical Assistance in HuMAN-Robot Conjoined Actions'
+title: 'Bayesian and Neural Inference on LSTM-based Object Recognition from Tactile and Kinesthetic Information'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

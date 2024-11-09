@@ -17,7 +17,7 @@ author_notes:
   - 'Equal contribution'
 
 date: '2021-09-16'
-doi: 'https://arxiv.org/abs/2201.06365#'
+doi: '10.1109/TOH.2021.3112795'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
