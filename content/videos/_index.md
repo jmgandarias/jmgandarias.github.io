@@ -106,3 +106,16 @@
 </video>
 
 </details>
+
+# Haptic Perception
+
+<details>
+<summary><em>see videos</em></summary>
+
+## [Bayesian and Neural Inference on LSTM-based Object Recognition from Tactile and Kinesthetic Information (RAL 2020)](../publication/j_2020_ral_bayesian/)
+
+<video width="360" height="240"  poster="../publication/j_2020_ral_bayesian/featured.png" controls>
+  <source src="../publication/j_2020_ral_bayesian/video.mp4" type="video/mp4">
+</video>
+
+</details>
