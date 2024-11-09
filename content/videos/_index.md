@@ -119,3 +119,22 @@
 </video>
 
 </details>
+
+# Human Modelling and Tracking
+
+<details>
+<summary><em>see videos</em></summary>
+
+## [Markerless 3D human pose tracking through multiple cameras and AI: Enabling high accuracy, robustness, and real-time performance](../publication/p_2023_arxiv-markerless/)
+
+<video width="360" height="240"  poster="../publication/p_2023_arxiv-markerless/featured.png" controls>
+  <source src="../publication/p_2023_arxiv-markerless/video.mp4" type="video/mp4">
+</video>
+
+## [The bridge between xsens motion-capture and robot operating system (ros): Enabling robots with online 3d human motion tracking](../publication/p_2023_arxiv_the-bridge/)
+
+<video width="360" height="240"  poster="../publication/p_2023_arxiv_the-bridge/featured.png" controls>
+  <source src="../publication/p_2023_arxiv_the-bridge/video.mp4" type="video/mp4">
+</video>
+
+</details>
