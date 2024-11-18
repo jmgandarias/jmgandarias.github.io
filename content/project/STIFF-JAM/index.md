@@ -44,7 +44,7 @@ Soft robots, thanks to their flexible structure, offer significant benefits in t
 
 **Project Code:** JA.B1-02
 
-**Duration:** January 2024 - December 2024
+**Duration:** January 2024 - December 2025
 
 **Principal Investigator:** Juan M. Gandarias
 
