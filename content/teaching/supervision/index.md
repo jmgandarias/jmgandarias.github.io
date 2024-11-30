@@ -28,12 +28,13 @@ external_link: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+## Looking for a Supervisor?
 
-
+If you are looking for Bachelor, Master, or PhD Thesis supervision, please [contact me](/#contact) for more information
 
 ## PhD Thesis
 
-**Past**
+### Past
 
 - [Safe Manipulation of Humans in Robot-driven Physical Human-Robot Interaction](https://riuma.uma.es/xmlui/handle/10630/30776) 
   - Author: Francisco J Ruiz-Ruiz
@@ -43,7 +44,7 @@ external_link: ''
 
 ## Master Thesis (TFM)
 
-**Past**
+### Past
 
 - [Dynamic modeling of an underactuated gripper for Physical Human-Robot Interaction](https://jabega.uma.es/permalink/34CBUA_UMA/1o1oa5r/alma991010856716204986)
   - Author: Adrián Bañuls Arias
@@ -53,24 +54,47 @@ external_link: ''
 
 ## Bachelor Thesis (TFG)
 
-**Ongoing**
+### Ongoing
 
-- Design and control of a 3-degree-of-freedom robotic wrist for a lightweight delta manipulator, David Rodriguez Onieva
-- Design of a jamming-based variable-stiffness joint for a soft robotic finger, Daniel Espinosa Ramírez
-- Development of a software interface for the control of a mobile manipulator with omnidirectional wheels, Rodrigo Castro Ochoa
 - Development of a simulation model for a mobile manipulator with an omnidirectional robotic base, Mario Alber Gil
-- Adaptive control of a 3-Degree-of-Freedom lightweight parallel manipulator, Víctor Rosillo Suero
-- Experimental analysis of jamming-based variable stiffness links for robotic manipulators, Estrella ISla Sulimma
 - Control of a 6 DoF robotic arm using ROS, Pascual González Redondo
 
-**Past**
+### Past
+
+- [Development of a software interface for the control of a mobile manipulator with omnidirectional wheels]()
+  - Author: Rodrigo Castro Ochoa
+  - Supervisors: Jesus M. Gómez-de-Gabriel and Juan M. Gandarias
+  - Year: 2024
+  - PDF available: [Download](theses/TFG_RodrigoCastro.pdf)
+
+- [Adaptive control of a 3-Degree-of-Freedom lightweight parallel manipulator]()
+  - Author: Víctor Rosillo Suero
+  - Supervisors: Juan M. Gandarias and Dahui Lin-Yang
+  - Year: 2024
+  - PDF available: [Download](theses/TFG_VictorRosillo.pdf)
+  <!-- - [GitHub repository](https://github.com/TaISLab/dynamixel_ros_library)  -->
+
+- [Design and control of a 3-degree-of-freedom robotic wrist for a lightweight delta manipulator]()
+  - Author: David Rodriguez Onieva
+  - Supervisors: Juan M. Gandarias and Fransciso Pastor
+  - Year: 2024
+  - PDF available: [Download](theses/TFG_DavidRodriguez.pdf)
+  <!-- - [GitHub repository](https://github.com/TaISLab/dynamixel_ros_library) -->
+  
+- [Experimental analysis of jamming-based variable stiffness links for robotic manipulators]()
+  - Author: Estrella Isla Sulimma
+  - Supervisors: Juan M. Gandarias
+  - Year: 2024
+  - PDF available: [Download](theses/TFG_EstrellaIsla.pdf)
+  <!-- - [GitHub repository](https://github.com/TaISLab/dynamixel_ros_library) -->
 
 - [Development of a high-level ROS package for robotic systems actuated by smart motors]()
   - Author: Maksym Saldat
   - Supervisors: Juan M. Gandarias and Jesus M. Gómez-de-Gabriel
   - Year: 2024
-  <!-- - PDF available: [Download](theses/TFG_PabloAguilar.pdf) -->
+  - PDF available: [Download](theses/TFG_Maksym_Saldat.pdf)
   - [GitHub repository](https://github.com/TaISLab/dynamixel_ros_library)
+  
 - [Low consumption system for remote monitoring of robotic walkers](https://jabega.uma.es/permalink/34CBUA_UMA/1o1oa5r/alma991010883604704986)
   - Author: Pablo Aguilar Orellana
   - Supervisors: Jesus M. Gómez-de-Gabriel and Juan M. Gandarias
@@ -112,5 +136,3 @@ external_link: ''
   - Supervisors: Jesus M. Gómez-de-Gabriel and Juan M. Gandarias
   - Year: 2018
   <!-- - PDF available:   -->
-
-If you are looking for Bachelor, Master, or PhD Thesis supervision, please [contact me](/#contact) for more information
