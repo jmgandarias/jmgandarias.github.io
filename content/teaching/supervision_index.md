@@ -66,20 +66,22 @@ If you are looking for Bachelor, Master, or PhD Thesis supervision, please [cont
   - Supervisors: Jesus M. Gómez-de-Gabriel and Juan M. Gandarias
   - Year: 2024
   - PDF available: [Download](theses/TFG_RodrigoCastro.pdf)
+  - [GitHub repository](https://github.com/TaISLab/Rafi) 
 
 - [Adaptive control of a 3-Degree-of-Freedom lightweight parallel manipulator]()
   - Author: Víctor Rosillo Suero
   - Supervisors: Juan M. Gandarias and Dahui Lin-Yang
   - Year: 2024
   - PDF available: [Download](theses/TFG_VictorRosillo.pdf)
-  <!-- - [GitHub repository](https://github.com/TaISLab/dynamixel_ros_library)  -->
-
+  - [GitHub repository (Admittance Controller)](https://github.com/Robotics-Mechatronics-UMA/admittance_controller) 
+  - [GitHub repository (3D Force sensor)](https://github.com/Robotics-Mechatronics-UMA/force_sensor_3D) 
+  - 
 - [Design and control of a 3-degree-of-freedom robotic wrist for a lightweight delta manipulator]()
   - Author: David Rodriguez Onieva
   - Supervisors: Juan M. Gandarias and Fransciso Pastor
   - Year: 2024
   - PDF available: [Download](theses/TFG_DavidRodriguez.pdf)
-  <!-- - [GitHub repository](https://github.com/TaISLab/dynamixel_ros_library) -->
+  - [GitHub repository](https://github.com/Robotics-Mechatronics-UMA/spherical_wrist_delta)
   
 - [Experimental analysis of jamming-based variable stiffness links for robotic manipulators]()
   - Author: Estrella Isla Sulimma

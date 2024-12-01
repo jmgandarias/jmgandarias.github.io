@@ -1,4 +1,4 @@
----
+<!-- ---
 title: University Courses
 summary: Lectures given at the University of Malaga
 tags:
@@ -27,7 +27,10 @@ external_link: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
----
+--- -->
+
+# University Courses
+Lectures given at the University of Malaga
 
 ## 2024-2025
   - Advanced Robotics, B.S. Electronics, Robotics and Mechatronics Engineering
