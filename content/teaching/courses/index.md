@@ -29,9 +29,6 @@ date: '2024-12-01'
 # slides: example
 ---
 
-# University Courses
-Lectures given at the University of Malaga
-
 ## 2024-2025
   - Advanced Robotics, B.S. Electronics, Robotics and Mechatronics Engineering
   - Robotics, B.S. Telecommunications Electronics Engineering

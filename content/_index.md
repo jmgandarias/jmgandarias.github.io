@@ -81,7 +81,7 @@ sections:
       items:
         - title: Assistant Professor
           company: University of Malaga
-          company_url: 'https://uma.es'
+          company_url: 'https://www.uma.es'
           company_logo: logo_uma_blanco
           location: Malaga, Spain
           date_start: '2023-07-25'
@@ -93,7 +93,7 @@ sections:
               * Project management
         - title: Postdoctoral Researcher
           company: Istituto Italiano di Tecnologia
-          company_url: 'https://iit.it'
+          company_url: 'https://www.iit.it'
           company_logo: iit_logo_blanco
           location: Genova, Italy
           date_start: '2020-10-01'
@@ -104,7 +104,7 @@ sections:
               * Project management
         - title: Postdoctoral Researcher
           company: University of Malaga
-          company_url: 'https://uma.es'
+          company_url: 'https://www.uma.es'
           company_logo: logo_uma_blanco
           location: Malaga, Spain
           date_start: '2020-03-31'
@@ -115,7 +115,7 @@ sections:
               * Teaching assistant in laboratory sessions
         - title: PhD Research Visitor
           company: University College London
-          company_url: 'https://ucl.ac.uk'
+          company_url: 'https://www.ucl.ac.uk'
           company_logo: logo_ucl_blanco
           location: London, UK
           date_start: '2019-03-01'
@@ -125,7 +125,7 @@ sections:
               * Mentoring MS students
         - title: PhD Student
           company: University of Malaga
-          company_url: 'https://uma.es'
+          company_url: 'https://www.uma.es'
           company_logo: logo_uma_blanco
           location: Malaga, Spain
           date_start: '2017-04-07'
