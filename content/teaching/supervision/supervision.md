@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Theses Supervision
 summary: Supervision of PhD, Master and Bachelor Students
 tags:
@@ -27,7 +27,9 @@ external_link: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
----
+--- -->
+
+
 ## Looking for a Supervisor?
 
 If you are looking for Bachelor, Master, or PhD Thesis supervision, please [contact me](/#contact) for more information
