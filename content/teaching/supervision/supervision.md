@@ -1,8 +1,8 @@
 ---
-title: Thesis Supervision
+title: Theses Supervision
 summary: Supervision of PhD, Master and Bachelor Students
 tags:
-date: '2024-04-19'
+date: '2024-12-01'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

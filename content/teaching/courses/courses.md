@@ -1,8 +1,8 @@
-<!-- ---
+---
 title: University Courses
 summary: Lectures given at the University of Malaga
 tags:
-date: '2024-04-19'
+date: '2024-12-01'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -27,7 +27,7 @@ external_link: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
---- -->
+---
 
 # University Courses
 Lectures given at the University of Malaga
