@@ -29,7 +29,7 @@ date: '2024-12-01'
 # slides: example
 ---
 
-::construction:: work in progress
+<!-- :construction: Work in progress! -->
 
 # [Industrial Informatics](https://jmgandarias.com/industrial_informatics/)
 Course material for the second part and Lab sesions of the Industrial Informatics course at the [University of Málaga](https://www.uma.es).
