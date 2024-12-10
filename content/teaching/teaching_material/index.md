@@ -29,9 +29,12 @@ date: '2024-12-01'
 # slides: example
 ---
 
-TBD, work in progress
+::construction:: work in progress
 
-## [Advanced Robotics]()
+# [Industrial Informatics](https://jmgandarias.com/industrial_informatics/)
+Course material for the second part and Lab sesions of the Industrial Informatics course at the [University of Málaga](https://www.uma.es).
+
+<!-- ## [Advanced Robotics]()
 Include definition
 
 ## [Theses support material]()
@@ -47,4 +50,4 @@ Include definition
 Include definition
 
 ## [ROS]()
-Include definition
+Include definition -->
