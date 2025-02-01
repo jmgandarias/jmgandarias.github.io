@@ -99,6 +99,13 @@
 <details>
 <summary><em>see videos</em></summary>
 
+## [A Multipurpose Interface for Close- and Far-Proximity Control of Mobile Collaborative Robots (BioRob 2024)](../publication/c_2024_icra_a-multipurpose/)
+
+<video width="360" height="240"  poster="../publication/c_2024_icra_a-multipurpose/featured.png" controls>
+  <source src="../publication/c_2024_icra_a-multipurpose/video.mp4" type="video/mp4">
+</video>
+
+
 ## [An Open Tele-Impedance Framework to Generate Data for Contact-Rich Tasks in Robotic Manipulation (ARSO 2023)](../publication/c_2023_arso_an-open/)
 
 <video width="360" height="240"  poster="../publication/c_2023_arso_an-open/featured.png" controls>
