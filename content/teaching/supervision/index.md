@@ -58,10 +58,16 @@ If you are looking for Bachelor, Master, or PhD Thesis supervision, please [cont
 
 ### Ongoing
 
-- Development of a simulation model for a mobile manipulator with an omnidirectional robotic base, Mario Alber Gil
 - Control of a 6 DoF robotic arm using ROS, Pascual González Redondo
 
 ### Past
+
+- [Development of a simulation model for a mobile manipulator with an omnidirectional robotic base,]()
+  - Author: Mario Alber Gil
+  - Supervisors: Jesus M. Gómez-de-Gabriel and Juan M. Gandarias
+  - Year: 2024
+  - PDF available: [Download](theses/TFG_RodrigoCastro.pdf)
+  - [GitHub repository](https://github.com/TaISLab/Rafi) 
 
 - [Development of a software interface for the control of a mobile manipulator with omnidirectional wheels]()
   - Author: Rodrigo Castro Ochoa
