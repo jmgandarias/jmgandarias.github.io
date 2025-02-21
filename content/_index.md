@@ -24,7 +24,7 @@ sections:
         <font size=6, style="color:#aed6f1"> **Hi!** </font>
 
         <font size=5> 
-        I am an Assistant Professor in the [Systems Engineering and Automation Department](https://www.uma.es/isa).
+        I am an Assistant Professor in the Systems Engineering and Automation Department, University of Málaga, Spain.
         
         <!--Custom spacing-->
         <div class="mb-3"></div>
@@ -352,9 +352,9 @@ sections:
         # map: https://www.google.com/maps?client=ubuntu&hs=0fg&sca_esv=560980485&channel=fs&output=search&q=calle+doctor+ortiz+ramos+escuela+de+ingenierias+industriales&source=lnms&entry=mc&sa=X&ved=2ahUKEwi7qMqO5IGBAxWidqQEHU3zAgoQ0pQJegQIDRAB
         # country_code: US
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Tuesday 09:00 to 11:00'
-        - 'Wednesday 09:00 to 11:00'
+      # office_hours:
+      #   - 'Tuesday 09:00 to 11:00'
+      #   - 'Wednesday 09:00 to 11:00'
       contact_links:
         # - icon: twitter
         #   icon_pack: fab
