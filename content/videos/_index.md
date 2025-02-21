@@ -24,8 +24,8 @@
 
 ## [Improving Standing Balance Performance through the Assistance of a Mobile Collaborative Robot (ICRA 2023)](../publication/c_2023_icra_improving/)
 
-<video width="360" height="240"  poster="../publication/c_2023_icra_improving/featured.png" controls>
-  <source src="../publication/c_2023_icra_improving/video.mp4" type="video/mp4">
+<video width="360" height="240"  poster="../publication/c_2022_icra_improving/featured.png" controls>
+  <source src="../publication/c_2022_icra_improving/video.mp4" type="video/mp4">
 </video>
 
 ## [Enhancing Flexibility and Adaptability in Conjoined Human-Robot Industrial Tasks with a Minimalist Physical Interface (ICRA 2022)](../publication/c_2022_icra_enhancing/)
