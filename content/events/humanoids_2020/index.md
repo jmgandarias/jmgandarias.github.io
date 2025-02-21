@@ -1,7 +1,6 @@
 ---
 title: Humanoids 2020 Workshop
-summary: Humanoids 2020 Workshop on Floating-base Robots in Manufacturing and Logistics Operations$:$ Opportunities and Challenges
-tags:
+summary: Floating-base Robots in Manufacturing and Logistics Operations\: Opportunities and Challenges
 date: "2021-07-19"
 
 # Optional external URL for project (replaces project detail page).
