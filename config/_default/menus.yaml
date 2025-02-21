@@ -19,9 +19,9 @@ main:
   - name: Teaching
     url: 'teaching'
     weight: 40
-  # - name: Talks
-  #   url: 'talks'
-  #   weight: 50
+  - name: Events
+    url: 'events'
+    weight: 50
   - name: Videos
     url: 'videos'
     weight: 60

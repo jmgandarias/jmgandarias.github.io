@@ -56,22 +56,35 @@ If you are looking for Bachelor, Master, or PhD Thesis supervision, please [cont
 
 ## Bachelor Thesis (TFG)
 
-### Ongoing
+<!-- ### Ongoing -->
 
-- Control of a 6 DoF robotic arm using ROS, Pascual González Redondo
 
 ### Past
 
-- [Development of a simulation model for a mobile manipulator with an omnidirectional robotic base,]()
+- [Development of a unity-ros2 simulation environment for slam evaluation for autonomous vehicles]()
+  - Author: Luis Arce Aranda
+  - Supervisors: Juan M. Gandarias and Alonso Llorente Landero
+  - Year: 2025
+  - PDF available: [Download](theses/TFG_Luis_Arce.pdf)
+  <!-- - [GitHub repository](https://github.com/TaISLab/rafi_sim)  -->
+  - 
+- [Development of the digital twin of a four-joint robotic arm with ros 2]()
+  - Author: Pascual González Redondo
+  - Supervisors: Juan M. Gandarias and Antonio J. Muñoz-Ramírez
+  - Year: 2025
+  - PDF available: [Download](theses/TFG_Pascual_Gonzalez.pdf)
+  <!-- - [GitHub repository](https://github.com/TaISLab/rafi_sim)  -->
+
+- [Development of a simulation model for a mobile manipulator with an omnidirectional robotic base]()
   - Author: Mario Alber Gil
-  - Supervisors: Jesus M. Gómez-de-Gabriel and Juan M. Gandarias
+  - Supervisors: Juan M. Gandarias and Jesus M. Gómez-de-Gabriel 
   - Year: 2024
-  - PDF available: [Download](theses/TFG_RodrigoCastro.pdf)
-  - [GitHub repository](https://github.com/TaISLab/Rafi) 
+  - PDF available: [Download](theses/TFG_Mario_Alber.pdf)
+  - [GitHub repository](https://github.com/TaISLab/rafi_sim) 
 
 - [Development of a software interface for the control of a mobile manipulator with omnidirectional wheels]()
   - Author: Rodrigo Castro Ochoa
-  - Supervisors: Jesus M. Gómez-de-Gabriel and Juan M. Gandarias
+  - Supervisors: Juan M. Gandarias and Jesus M. Gómez-de-Gabriel  
   - Year: 2024
   - PDF available: [Download](theses/TFG_RodrigoCastro.pdf)
   - [GitHub repository](https://github.com/TaISLab/Rafi) 
