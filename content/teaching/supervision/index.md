@@ -77,25 +77,25 @@ If you are looking for Bachelor, Master, or PhD Thesis supervision, please [cont
 
 - [Development of a simulation model for a mobile manipulator with an omnidirectional robotic base]()
   - Author: Mario Alber Gil
-  - Supervisors: Juan M. Gandarias and Jesus M. Gómez-de-Gabriel 
+  - Supervisors: Juan M. Gandarias and Jesus M. Gómez-de-Gabriel
   - Year: 2024
   - PDF available: [Download](theses/TFG_Mario_Alber.pdf)
-  - [GitHub repository](https://github.com/TaISLab/rafi_sim) 
+  - [GitHub repository](https://github.com/TaISLab/rafi_sim)
 
 - [Development of a software interface for the control of a mobile manipulator with omnidirectional wheels]()
   - Author: Rodrigo Castro Ochoa
-  - Supervisors: Juan M. Gandarias and Jesus M. Gómez-de-Gabriel  
+  - Supervisors: Juan M. Gandarias and Jesus M. Gómez-de-Gabriel
   - Year: 2024
   - PDF available: [Download](theses/TFG_RodrigoCastro.pdf)
-  - [GitHub repository](https://github.com/TaISLab/Rafi) 
+  - [GitHub repository](https://github.com/TaISLab/Rafi)
 
 - [Adaptive control of a 3-Degree-of-Freedom lightweight parallel manipulator]()
   - Author: Víctor Rosillo Suero
   - Supervisors: Juan M. Gandarias and Dahui Lin-Yang
   - Year: 2024
   - PDF available: [Download](theses/TFG_VictorRosillo.pdf)
-  - [GitHub repository (Admittance Controller)](https://github.com/Robotics-Mechatronics-UMA/admittance_controller) 
-  - [GitHub repository (3D Force sensor)](https://github.com/Robotics-Mechatronics-UMA/force_sensor_3D) 
+  - [GitHub repository (Admittance Controller)](https://github.com/Robotics-Mechatronics-UMA/admittance_controller)
+  - [GitHub repository (3D Force sensor)](https://github.com/Robotics-Mechatronics-UMA/force_sensor_3D)
   - 
 - [Design and control of a 3-degree-of-freedom robotic wrist for a lightweight delta manipulator]()
   - Author: David Rodriguez Onieva
