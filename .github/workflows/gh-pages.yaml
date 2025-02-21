@@ -60,12 +60,13 @@ jobs:
             --gc \
             --minify \
             --baseURL "https://jmgandarias.github.io/"          
+      - name: List contents of public directory
+        run: ls -la ./public
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: upload-artifcact-name
+          name: github-pages
           path: ./public
-
 
   # Deployment job
   deploy:
@@ -79,4 +80,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v2
         with:
-          artifact_name: upload-artifcact-name
+          artifact_name: github-pages
