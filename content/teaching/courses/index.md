@@ -1,6 +1,6 @@
 ---
 title: University Courses
-summary: Lectures given at the University of Malaga
+summary: List of courses given at the University of Malaga
 tags:
 date: '2024-12-01'
 
@@ -32,8 +32,7 @@ date: '2024-12-01'
 ## 2024-2025
   - Advanced Robotics, B.S. Electronics, Robotics and Mechatronics Engineering
   - Robotics, B.S. Telecommunications Electronics Engineering
-  - Control Engineering I, B.S. Electronics, Robotics and Mechatronics Engineering
-  - Industrial Informatics, B.S. Industrial Electronics Engineering
+  - Industrial Informatics, B.S. Industrial Electronics Engineering and B.S. Industrial Technology Engineering
   - Control Engineering II, B.S. Industrial Technology Engineering
   - Railway Systems Control, B.S. Electronics, Robotics and Mechatronics Engineering
 

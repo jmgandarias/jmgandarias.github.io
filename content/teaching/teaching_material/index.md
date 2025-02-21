@@ -2,7 +2,7 @@
 title: Teaching Material
 summary: Resources and teaching material (mostly) related to robotics and control
 tags:
-date: '2024-12-01'
+# date: '2024-12-01'
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ''
