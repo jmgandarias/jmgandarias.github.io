@@ -2,7 +2,7 @@
 title: University Courses
 summary: List of courses given at the University of Malaga
 tags:
-date: '2024-12-01'
+date: '2025-02-21'
 
 # # Optional external URL for project (replaces project detail page).
 # external_link: ''
