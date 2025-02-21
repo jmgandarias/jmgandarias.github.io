@@ -1,6 +1,6 @@
 ---
 title: IROS 2022 Workshop
-summary: Assistive Robotic Systems for Human Balancing and Walking\: Emerging Trends and Perspectives
+summary: "Assistive Robotic Systems for Human Balancing and Walking: Emerging Trends and Perspectives"
 date: "2022-10-27"
 
 # Optional external URL for project (replaces project detail page).
