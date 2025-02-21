@@ -21,7 +21,7 @@ sections:
       #   label: >-
       #     <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
       text: |-
-        <font size=6, style="color:#aed6f1"> **Hi!** </font>
+        <font size=6, style="color:#aed6f1"> **Welcome to my website!** </font>
 
         <font size=5> 
         I am an Assistant Professor in the Systems Engineering and Automation Department, University of Málaga, Spain.
@@ -34,7 +34,7 @@ sections:
         <!--Custom spacing-->
         <div class="mb-53"></div>
 
-        Here you can find preprints of my publications, overviews of past and ongoing research projects, teaching material, nice videos of my research and much more!
+        Here you can find preprints of my publications, overviews of past and ongoing research projects, teaching material, nice videos of my research works and much more!
         </font>
 
         <!--Custom spacing-->
