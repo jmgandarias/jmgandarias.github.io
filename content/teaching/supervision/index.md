@@ -128,7 +128,8 @@ You can share the dissertation docuemtn with me once you have created it. Also, 
 
 - **Dissertation template:** A [LaTeX template for the dissertation](https://github.com/jmgandarias/template_TFE). It also incluse some interesting info on how to fill this document.
 - **Presentation template:** A presentation template with the official colors and logos of the University
-  - [Download the Power Point template.](extra_doc/presentation_template.pptx)
+  - [Download the Power Point TFE template.](extra_doc/TFE_template.pptx)
+  - [Download the Power Point presentation template.](extra_doc/presentation_template.pptx)
   - [Use the LaTeX template.](https://github.com/jmgandarias/UMA_slides_template)
 
 ---
