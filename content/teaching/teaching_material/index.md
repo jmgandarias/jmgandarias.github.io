@@ -34,9 +34,10 @@ date: '2024-12-01'
 ## [Industrial Informatics](https://jmgandarias.com/industrial_informatics/)
 Course material for the second part and Lab sesions of the Industrial Informatics course at the [University of Málaga](https://www.uma.es).
 
-<!-- ## [Advanced Robotics]()
-Include definition
+## [Advanced Robotics](https://jmgandarias.com/advanced_robotics/)
+Course material for the lab sesions of the Advanced Robotics course at the [University of Málaga](https://www.uma.es).
 
+<!-- 
 ## [Theses support material]()
 Include definition
 
