@@ -147,7 +147,6 @@ You can share the dissertation docuemtn with me once you have created it. Also, 
 
 ### Master Thesis (TFM)
 
-
 - [Dynamic modeling of an underactuated gripper for Physical Human-Robot Interaction](https://jabega.uma.es/permalink/34CBUA_UMA/1o1oa5r/alma991010856716204986)
   - Author: Adrián Bañuls Arias
   - Supervisors: Jesus M. Gómez-de-Gabriel and Juan M. Gandarias
@@ -156,103 +155,105 @@ You can share the dissertation docuemtn with me once you have created it. Also, 
 
 ### Bachelor Thesis (TFG)
 
-- [Development of a unity-ros2 simulation environment for slam evaluation for autonomous vehicles]()
+- [Design and evaluation of variable-stiffness robotic links based on granular jamming](theses/TFG_Tanya_Ilieva.pdf)
+  - Author: Tanya Ilieva Timova
+  - Supervisors: Juan M. Gandarias and Francisco Pastor
+  - Year: 2025
+  - [GitHub repository](https://github.com/jmgandarias/TFG_TanyaIlieva)
+
+- [A Reinforcement Learning Framework for Manipulation Tasks with the Franka Robotic Manipulator](theses/TFG_Diego_Caruana.pdf)
+  - Author: Diego Caurana Montes
+  - Supervisors: Juan M. Gandarias and Juan-Antonio Fernández-Madrigal
+  - Year: 2025
+  - [GitHub repository](https://github.com/uncore-team/franka_rl) 
+
+- [Implementation of a ROS2-based environment with a sensory system on the Donatello mobile robot of the RoboRescue UMA competition robotics team]()
+  - Author: Pablo Lozano Lozano,
+  - Supervisors: Juan M. Gandarias and Mauel Castellano Quero
+  - Year: 2025
+  - [GitHub repository](https://github.com/RoboRescueUMA/donatello_ros2) 
+
+- [Development of a unity-ros2 simulation environment for slam evaluation for autonomous vehicles](theses/TFG_Luis_Arce.pdf)
   - Author: Luis Arce Aranda
   - Supervisors: Juan M. Gandarias and Alonso Llorente Landero
   - Year: 2025
-  - PDF available: [Download](theses/TFG_Luis_Arce.pdf)
-  <!-- - [GitHub repository](https://github.com/TaISLab/rafi_sim)  -->
+  - PDF available: [Download]
+
   - 
-- [Development of the digital twin of a four-joint robotic arm with ros 2]()
+- [Development of the digital twin of a four-joint robotic arm with ros 2](theses/TFG_Pascual_Gonzalez.pdf)
   - Author: Pascual González Redondo
   - Supervisors: Juan M. Gandarias and Antonio J. Muñoz-Ramírez
   - Year: 2025
-  - PDF available: [Download](theses/TFG_Pascual_Gonzalez.pdf)
-  <!-- - [GitHub repository](https://github.com/TaISLab/rafi_sim)  -->
 
-- [Development of a simulation model for a mobile manipulator with an omnidirectional robotic base]()
+- [Development of a simulation model for a mobile manipulator with an omnidirectional robotic base](theses/TFG_Mario_Alber.pdf)
   - Author: Mario Alber Gil
   - Supervisors: Juan M. Gandarias and Jesus M. Gómez-de-Gabriel
   - Year: 2024
-  - PDF available: [Download](theses/TFG_Mario_Alber.pdf)
   - [GitHub repository](https://github.com/TaISLab/rafi_sim)
 
-- [Development of a software interface for the control of a mobile manipulator with omnidirectional wheels]()
+- [Development of a software interface for the control of a mobile manipulator with omnidirectional wheels](theses/TFG_Rodrigo_Castro.pdf)
   - Author: Rodrigo Castro Ochoa
   - Supervisors: Juan M. Gandarias and Jesus M. Gómez-de-Gabriel
   - Year: 2024
-  - PDF available: [Download](theses/TFG_RodrigoCastro.pdf)
   - [GitHub repository](https://github.com/TaISLab/Rafi)
 
-- [Adaptive control of a 3-Degree-of-Freedom lightweight parallel manipulator]()
+- [Adaptive control of a 3-Degree-of-Freedom lightweight parallel manipulator](theses/TFG_Victor_Rosillo.pdf)
   - Author: Víctor Rosillo Suero
   - Supervisors: Juan M. Gandarias and Dahui Lin-Yang
   - Year: 2024
-  - PDF available: [Download](theses/TFG_VictorRosillo.pdf)
   - [GitHub repository (Admittance Controller)](https://github.com/Robotics-Mechatronics-UMA/admittance_controller)
   - [GitHub repository (3D Force sensor)](https://github.com/Robotics-Mechatronics-UMA/force_sensor_3D)
   - 
-- [Design and control of a 3-degree-of-freedom robotic wrist for a lightweight delta manipulator]()
+- [Design and control of a 3-degree-of-freedom robotic wrist for a lightweight delta manipulator](theses/TFG_David_Rodriguez.pdf)
   - Author: David Rodriguez Onieva
   - Supervisors: Juan M. Gandarias and Fransciso Pastor
   - Year: 2024
-  - PDF available: [Download](theses/TFG_DavidRodriguez.pdf)
   - [GitHub repository](https://github.com/Robotics-Mechatronics-UMA/spherical_wrist_delta)
   
-- [Experimental analysis of jamming-based variable stiffness links for robotic manipulators]()
+- [Experimental analysis of jamming-based variable stiffness links for robotic manipulators](theses/TFG_Estrella_Isla.pdf)
   - Author: Estrella Isla Sulimma
   - Supervisors: Juan M. Gandarias
   - Year: 2024
-  - PDF available: [Download](theses/TFG_EstrellaIsla.pdf)
-  <!-- - [GitHub repository](https://github.com/TaISLab/dynamixel_ros_library) -->
 
-- [Development of a high-level ROS package for robotic systems actuated by smart motors]()
+- [Development of a high-level ROS package for robotic systems actuated by smart motors](theses/TFG_Maksym_Saldat.pdf)
   - Author: Maksym Saldat
   - Supervisors: Juan M. Gandarias and Jesus M. Gómez-de-Gabriel
   - Year: 2024
-  - PDF available: [Download](theses/TFG_Maksym_Saldat.pdf)
   - [GitHub repository](https://github.com/TaISLab/dynamixel_ros_library)
   
-- [Low consumption system for remote monitoring of robotic walkers](https://jabega.uma.es/permalink/34CBUA_UMA/1o1oa5r/alma991010883604704986)
+- [Low consumption system for remote monitoring of robotic walkers](theses/TFG_Pablo_Aguilar.pdf)
   - Author: Pablo Aguilar Orellana
   - Supervisors: Jesus M. Gómez-de-Gabriel and Juan M. Gandarias
   - Year: 2020
-  - PDF available: [Download](theses/TFG_PabloAguilar.pdf)
 
-- [Design of an underactuated robotic hand with a flexible tactile sensor](https://jabega.uma.es/permalink/34CBUA_UMA/1o1oa5r/alma991010696019004986)
+- [Design of an underactuated robotic hand with a flexible tactile sensor](theses/TFG_Trinidad_Sanchez.pdf)
   - Author: Trinidad Sánchez Montoya
   - Supervisors: Jesus M. Gómez-de-Gabriel and Juan M. Gandarias
   - Year: 2019
-  - PDF available: [Download](theses/TFG_TrinidadSanchez.pdf)
 
-- [Sensorized human arm model for researching in physical Human-Robot Interaction](https://jabega.uma.es/permalink/34CBUA_UMA/1o1oa5r/alma991010711518404986)
+- [Sensorized human arm model for researching in physical Human-Robot Interaction](theses/TFG_Jose_Figuerola.pdf)
   - Author: Jose Antonio Figuerola Palacios
   - Supervisors: Jesus M. Gómez-de-Gabriel and Juan M. Gandarias
   - Year: 2019
-  <!-- - PDF available: [Download](theses/Fran_phdThesis.pdf) -->
 
-- [Visual control of a parallel aerial manipulator](https://jabega.uma.es/permalink/34CBUA_UMA/1o1oa5r/alma991010659209504986)
+- [Visual control of a parallel aerial manipulator](theses/TFG_Miguel_Medicis.pdf)
   - Author: Miguel de Médicis Barrionuevo
   - Supervisors: Jesus M. Gómez-de-Gabriel and Juan M. Gandarias
   - Year: 2019
-  <!-- - PDF available: [Download](theses/Fran_phdThesis.pdf) -->
 
-- [Wearable sensorized wristband for victims monitoring](https://jabega.uma.es/permalink/34CBUA_UMA/1o1oa5r/alma991005521419704986)
+- [Wearable sensorized wristband for victims monitoring](theses/TFG_Fran_Ruiz.pdf)
   - Author: Francisco J Ruiz-Ruiz
   - Supervisors: Jesus M. Gómez-de-Gabriel and Juan M. Gandarias
   - Year: 2018
-  <!-- - PDF available: [Download](theses/Fran_phdThesis.pdf) -->
 
-- [Pressure images data acquisition system for an array, resisitve-based tactile sensor](https://jabega.uma.es/permalink/34CBUA_UMA/1o1oa5r/alma991010656392804986) 
+- [Pressure images data acquisition system for an array, resisitve-based tactile sensor](theses/TFG_Maria_Fernandez.pdf)
   - Author: Maria Fernández Hijano
   - Supervisors: Jesus M. Gómez-de-Gabriel and Juan M. Gandarias
   - Year: 2018
-  - PDF available: [Download](theses/TFG_MariaFernandez.pdf)
 
-- [Connected, portable force measurement device](https://jabega.uma.es/permalink/34CBUA_UMA/1o1oa5r/alma991010656383004986)
+- [Connected, portable force measurement device](theses/TFG_Andres_Lorenzo.pdf)
   - Author: José Andrés Lorenzo Robles
   - Supervisors: Jesus M. Gómez-de-Gabriel and Juan M. Gandarias
   - Year: 2018
-  <!-- - PDF available:   -->
 
    </div>
