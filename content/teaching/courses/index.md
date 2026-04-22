@@ -29,6 +29,11 @@ date: '2025-02-21'
 # slides: example
 ---
 
+## 2025-2026
+  - Advanced Robotics, B.S. Electronics, Robotics and Mechatronics Engineering
+  - Industrial Informatics, B.S. Industrial Electronics Engineering and B.S. Industrial Technology Engineering
+  - Control Engineering II, B.S. Industrial Technology Engineering
+
 ## 2024-2025
   - Advanced Robotics, B.S. Electronics, Robotics and Mechatronics Engineering
   - Robotics, B.S. Telecommunications Electronics Engineering
